@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "status": "playing",
+    "year": 2005,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "Meta Quest 2",
+      "PS3",
+      "PS4",
+      "NGC",
+      "Wii",
+      "Android",
+      "PC",
+      "iOS",
+      "X360",
+      "XONE",
+      "Switch",
+      "PS2"
+    ],
+    "score": null,
+    "synopsis": "Resident Evil 4 is the sixth installment in the Resident Evil series and is often noted for its departure from the fixed camera angles of earlier titles. It introduced an over-the-shoulder third-person perspective, faster-paced gunplay, and more dynamic controls. The game features larger, more open environments and a new AI system that enables enemies to coordinate attacks and attempt to corner the player. Enemies exhibit more human-like behavior, such as climbing ladders, opening doors, and using weapons.",
+    "date": "2026-08-10",
+    "cover": "covers/resident-evil-4.jpg",
+    "igdbId": 974,
+    "ttb": {
+      "hastily": null,
+      "normally": 24.0,
+      "completely": null,
+      "samples": 1
+    }
+  },
+  {
+    "id": "god-of-war-iii",
+    "title": "God of War III",
+    "status": "playing",
+    "year": 2010,
+    "genres": [
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "score": null,
+    "synopsis": "Set in the realm of brutal Greek mythology, God of War III is a single-player game that allows players to take on the climatic role of the ex-Spartan warrior, Kratos, as he scales through the intimidating heights of Mt. Olympus and the dark depths of Hell to seek revenge on those who have betrayed him. Armed with double-chained blades, and an array of new weapons and magic for this iteration of the trilogy, Kratos must take on mythology's darkest creatures while solving intricate puzzles throughout his merciless quest to destroy Olympus. Utilizing a new game engine built from the ground up and state-of-the-art visual technologies, the development team behind God of War III has made standard-setting strides in giving players the realistic feel of actually being on the battlegrounds. With texture resolutions quadrupling since God of War II on PlayStation 2 computer entertainment system, God of War III, in its debut on the PS3 system, will feature fluid, life-like characters, as well as dynamic lighting effects, a robust weapon system, and world-changing scenarios that will truly bring unmistakable realism to Kratos' fateful quest. Players will have a chance to join battles on a grand scale that is four times larger than its predecessor.",
+    "date": "2026-08-11",
+    "cover": "covers/god-of-war-iii.jpg",
+    "igdbId": 499,
+    "ttb": {
+      "hastily": 9.3,
+      "normally": 18.5,
+      "completely": 36.0,
+      "samples": 4
+    }
+  },
+  {
+    "id": "soma",
+    "title": "Soma",
+    "status": "toplay",
+    "year": 2015,
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "SOMA is a sci-fi horror game from Frictional Games, the creators of Amnesia: The Dark Descent. It is an unsettling story about identity, consciousness, and what it means to be human.\n\nEnter the world of SOMA and face horrors buried deep beneath the ocean waves. Delve through locked terminals and secret documents to uncover the truth behind the chaos. Seek out the last remaining inhabitants and take part in the events that will ultimately shape the fate of the station. But be careful, danger lurks in every corner: corrupted humans, twisted creatures, insane robots, and even an inscrutable omnipresent A.I. You will need to figure out how to deal with each one of them. Just remember there’s no fighting back, either you outsmart your enemies or you get ready to run.",
+    "date": "2026-08-11",
+    "cover": "covers/soma.jpg",
+    "igdbId": 9727,
+    "ttb": {
+      "hastily": 5.0,
+      "normally": 10.6,
+      "completely": 16.2,
+      "samples": 13
+    }
+  },
+  {
+    "id": "god-of-war",
+    "title": "God of War",
+    "status": "toplay",
+    "year": 2018,
+    "genres": [
+      "RPG",
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "God of War is the sequel to God of War III as well as a continuation of the canon God of War chronology. Unlike previous installments, this game focuses on Norse mythology and follows an older and more seasoned Kratos and his son Atreus in the years since the third game. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+    "date": "2026-08-11",
+    "cover": "covers/god-of-war.jpg",
+    "igdbId": 19560,
+    "ttb": {
+      "hastily": 31.5,
+      "normally": 32.6,
+      "completely": 47.8,
+      "samples": 32
+    }
+  },
+  {
+    "id": "god-of-war-ragnar-k",
+    "title": "God of War Ragnarök",
+    "status": "toplay",
+    "year": 2022,
+    "genres": [
+      "RPG",
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "God of War: Ragnarök is the ninth installment in the God of War series and the sequel to 2018's God of War. Continuing with the Norse mythology theme, the game is set in ancient Norway and features series protagonists Kratos, the former Greek God of War, and his young son Atreus. The game kicked off the events of Ragnarök, where Kratos and Atreus must journey to each of the Nine Realms in search of answers as they prepare for the prophesied battle that will end the world.",
+    "date": "2026-08-11",
+    "cover": "covers/god-of-war-ragnar-k.jpg",
+    "igdbId": 112875,
+    "ttb": {
+      "hastily": 20.5,
+      "normally": 37.4,
+      "completely": 60.0,
+      "samples": 19
+    }
+  },
+  {
+    "id": "far-cry-3",
+    "title": "Far Cry 3",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Explore an island playground as stunningly beautiful as it is diverse – from mountain ranges to swampy grasslands and white sandy beaches. Fight your way through the island’s towns, temples, river ports and more.\n\nEncounter a diverse and realistic cast of characters, including one of Far Cry’s most notorious villains: Vaas Montenegro. Dive into this deep and enriching story where morals are questionable and hope is all but abandoned.",
+    "date": "2026-08-11",
+    "cover": "covers/far-cry-3.jpg",
+    "igdbId": 529,
+    "ttb": {
+      "hastily": 16.0,
+      "normally": 21.6,
+      "completely": 34.5,
+      "samples": 13
+    }
+  },
+  {
+    "id": "doom-eternal",
+    "title": "Doom Eternal",
+    "status": "toplay",
+    "year": 2020,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "Stadia",
+      "Series X|S",
+      "PS4",
+      "PC",
+      "PS5",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Doom Eternal is a first-person shooter developed by id Software and the sequel to Doom (2016). Players control the Doom Slayer as he fights to end a demonic invasion of Earth. Combat is built around aggressive resource management, where health, armor, and ammo are gained by executing, igniting, or chainsawing enemies. The game introduces platforming segments, destructible enemy weak points, an expanded weapon arsenal, and a multiplayer mode called Battlemode, where one player-controlled Slayer fights two player-controlled demons.",
+    "date": "2026-08-11",
+    "cover": "covers/doom-eternal.jpg",
+    "igdbId": 103298,
+    "ttb": {
+      "hastily": 12.2,
+      "normally": 19.6,
+      "completely": 26.5,
+      "samples": 4
+    }
+  },
+  {
+    "id": "lethal-league",
+    "title": "Lethal League",
+    "status": "played",
+    "year": 2014,
+    "genres": [
+      "Fighting",
+      "Sport",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE"
+    ],
+    "score": 8.5,
+    "synopsis": "Lethal League is a competitive projectile fighting game where you have to hit an anti-gravity ball into the face of your opponent to win. The ball speeds up with every strike, up to explosively extreme velocities. Play intense local matches with friends and foes, challenge yourself in the singleplayer mode or battle it out online.",
+    "date": "2026-08-11",
+    "cover": "covers/lethal-league.jpg",
+    "igdbId": 8262,
+    "ttb": null
+  },
+  {
+    "id": "hitman-absolution",
+    "title": "Hitman: Absolution",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac",
+      "X360",
+      "Switch"
+    ],
+    "score": 8.5,
+    "synopsis": "Hitman: Absolution follows the Original Assassin undertaking his most personal contract to date. Betrayed by the Agency and hunted by the police, Agent 47 finds himself pursuing redemption in a corrupt and twisted world.\n\nShowcasing Io-Interactive’s new proprietary Glacier 2 technology, the game has been built from the ground up, boasting a cinematic story, distinctive art direction and highly original game design, Hitman Absolution combines much loved classic gameplay with completely new gameplay features for the Hitman franchise.",
+    "date": "2026-08-11",
+    "cover": "covers/hitman-absolution.jpg",
+    "igdbId": 530,
+    "ttb": {
+      "hastily": 12.2,
+      "normally": 13.7,
+      "completely": 72.2,
+      "samples": 9
+    }
+  },
+  {
+    "id": "duck-game",
+    "title": "Duck Game",
+    "status": "played",
+    "year": 2014,
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "PS4",
+      "Ouya",
+      "PC",
+      "Switch"
+    ],
+    "score": 7.7,
+    "synopsis": "Enter the futuristic year of 1984, an age where ducks run wild in a frantic battle for glory. Blast your friends with Shotguns, Net Guns, Mind Control Rays, Saxophones, Magnet Guns, and much, much more. This is DUCK GAME. Don't blink.",
+    "date": "2026-08-11",
+    "cover": "covers/duck-game.jpg",
+    "igdbId": 11247,
+    "ttb": null
+  },
+  {
+    "id": "borderlands-2",
+    "title": "Borderlands 2",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Shooter",
+      "RPG"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Linux",
+      "Android",
+      "PC",
+      "Mac",
+      "Vita",
+      "X360",
+      "XONE",
+      "Switch"
+    ],
+    "score": 8.8,
+    "synopsis": "A new era of shoot and loot is about to begin. Play as one of four new vault hunters facing off against a massive new world of creatures, psychos and the evil mastermind, Handsome Jack. Make new friends, arm them with a bazillion weapons and fight alongside them in 4 player co-op on a relentless quest for revenge and redemption across the undiscovered and unpredictable living planet.",
+    "date": "2026-08-11",
+    "cover": "covers/borderlands-2.jpg",
+    "igdbId": 1011,
+    "ttb": {
+      "hastily": 30.5,
+      "normally": 66.5,
+      "completely": 145.6,
+      "samples": 8
+    }
+  },
+  {
+    "id": "super-hexagon",
+    "title": "Super Hexagon",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Music",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "blackberry",
+      "Linux",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac"
+    ],
+    "score": 10.0,
+    "synopsis": "Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.",
+    "date": "2026-08-11",
+    "cover": "covers/super-hexagon.jpg",
+    "igdbId": 3251,
+    "ttb": {
+      "hastily": null,
+      "normally": null,
+      "completely": 4.8,
+      "samples": 1
+    }
+  },
+  {
+    "id": "spec-ops-the-line",
+    "title": "Spec Ops: The Line",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "Linux",
+      "PC",
+      "Mac",
+      "X360"
+    ],
+    "score": 8.5,
+    "synopsis": "A third-person shooter in which three American soldiers led by Capt. Walker are sent to Dubai in order to recover whoever remains of an infantry unit, the 33rd Battalion, until they decide to take action against the militants situated in the city. As they progress, however, the logistical and ethical complexity of their objective deepens, and their perception of themselves, and their enemy, is put into question.",
+    "date": "2026-08-11",
+    "cover": "covers/spec-ops-the-line.jpg",
+    "igdbId": 1377,
+    "ttb": {
+      "hastily": 6.3,
+      "normally": 6.3,
+      "completely": 10.1,
+      "samples": 18
+    }
+  },
+  {
+    "id": "dispatch",
+    "title": "Dispatch",
+    "status": "played",
+    "year": 2025,
+    "genres": [
+      "Point & Click",
+      "Strategy",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "browser",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "score": 8.0,
+    "synopsis": "Dispatch is a superhero workplace comedy where choices matter. Manage a dysfunctional team of misfit heroes and strategize who to send to emergencies around the city, all while balancing office politics, personal relationships, and your own quest to become a hero.",
+    "date": "2026-08-11",
+    "cover": "covers/dispatch.jpg",
+    "igdbId": 325609,
+    "ttb": {
+      "hastily": 9.0,
+      "normally": 9.4,
+      "completely": 14.2,
+      "samples": 19
+    }
+  },
+  {
+    "id": "the-wolf-among-us",
+    "title": "The Wolf Among Us",
+    "status": "played",
+    "year": 2013,
+    "genres": [
+      "Point & Click",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac",
+      "Vita",
+      "X360",
+      "XONE"
+    ],
+    "score": 8.0,
+    "synopsis": "The Wolf Among Us is a five-episode series from the creators of the 2012 Game of the Year: The Walking Dead. Based on Fables (DC Comics/Vertigo), an award-winning comic book series, it is an often violent, mature and hard-boiled thriller where the characters and creatures of myth, lore and legend are real and exist in our world. As Bigby Wolf - The Big Bad Wolf in human form - you will discover that the brutal, bloody murder of a Fable is just a taste of things to come, in a game series where your every decision can have enormous consequences.",
+    "date": "2026-08-11",
+    "cover": "covers/the-wolf-among-us.jpg",
+    "igdbId": 2993,
+    "ttb": {
+      "hastily": 8.0,
+      "normally": 10.1,
+      "completely": 13.0,
+      "samples": 9
+    }
+  },
+  {
+    "id": "batman-the-telltale-series",
+    "title": "Batman: The Telltale Series",
+    "status": "played",
+    "year": 2016,
+    "genres": [
+      "Point & Click",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac",
+      "X360",
+      "XONE",
+      "Switch"
+    ],
+    "score": 7.0,
+    "synopsis": "Batman: The Telltale Series is an episodic graphic adventure game developed by Telltale Games, first released in 2016. The game offers a narrative-focused experience, where players control Bruce Wayne and his alter ego, Batman, making choices that shape the story and relationships with characters.\n\nThe plot explores Bruce Wayne’s struggle to uncover corruption in Gotham City, while confronting revelations about his family’s past. The game features dialogue-driven gameplay, quick-time combat, and detective sequences. Decisions carry over across episodes, influencing the narrative’s direction and character arcs.",
+    "date": "2026-08-11",
+    "cover": "covers/batman-the-telltale-series.jpg",
+    "igdbId": 14746,
+    "ttb": {
+      "hastily": null,
+      "normally": 14.3,
+      "completely": 8.5,
+      "samples": 8
+    }
+  },
+  {
+    "id": "batman-arkham-city",
+    "title": "Batman: Arkham City",
+    "status": "played",
+    "year": 2011,
+    "genres": [
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "OnLive",
+      "PS3",
+      "PC",
+      "X360",
+      "Switch"
+    ],
+    "score": 8.5,
+    "synopsis": "Batman: Arkham City builds upon the intense, atmospheric foundation of Batman: Arkham Asylum, sending players soaring into Arkham City, the new maximum security \"home\" for all of Gotham City's thugs, gangsters and insane criminal masterminds.\n\nSet inside the heavily fortified walls of a sprawling district in the heart of Gotham City, this highly anticipated sequel introduces a brand-new story that draws together a new all-star cast of classic characters and murderous villains from the Batman universe, as well as a vast range of new and enhanced gameplay features to deliver the ultimate experience as the Dark Knight.",
+    "date": "2026-08-11",
+    "cover": "covers/batman-arkham-city.jpg",
+    "igdbId": 501,
+    "ttb": {
+      "hastily": 12.3,
+      "normally": 24.5,
+      "completely": 50.4,
+      "samples": 20
+    }
+  },
+  {
+    "id": "max-payne-3",
+    "title": "Max Payne 3",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Mac",
+      "X360"
+    ],
+    "score": 8.0,
+    "synopsis": "Max Payne 3 is a third-person shooter in which the player assumes the role of its titular character, Max Payne. A new feature to the series, introduced in Max Payne 3, is the cover system, which allows players to gain a tactical advantage, and avoid taking damage from enemies. To progress through the linear story, players take on enemies throughout levels. The game features interactive cutscenes which transition seamlessly into continuing gameplay; there are no loading screens across gameplay and cutscenes.",
+    "date": "2026-08-11",
+    "cover": "covers/max-payne-3.jpg",
+    "igdbId": 960,
+    "ttb": {
+      "hastily": 10.7,
+      "normally": 11.6,
+      "completely": 22.0,
+      "samples": 13
+    }
+  },
+  {
+    "id": "content-warning",
+    "title": "Content Warning",
+    "status": "played",
+    "year": 2024,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "XONE",
+      "Switch"
+    ],
+    "score": 6.5,
+    "synopsis": "Film your friends doing scary things to become SpöökTube famous!",
+    "date": "2026-08-11",
+    "cover": "covers/content-warning.jpg",
+    "igdbId": 294661,
+    "ttb": null
+  },
+  {
+    "id": "detroit-become-human",
+    "title": "Detroit: Become Human",
+    "status": "toplay",
+    "year": 2018,
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "score": null,
+    "synopsis": "Detroit: Become Human is an interactive narrative adventure game developed by Quantic Dream and released in 2018. Set in a near-future Detroit where androids serve humans, the story follows three android protagonists—Kara, Connor, and Markus—who shape the city’s fate through their choices. Gameplay combines exploration, dialogue interactions, and quick-time events, with branching storylines and multiple endings. The narrative explores themes of artificial intelligence, freedom, and morality.",
+    "date": "2026-08-11",
+    "cover": "covers/detroit-become-human.jpg",
+    "igdbId": 14362,
+    "ttb": {
+      "hastily": 11.0,
+      "normally": 14.4,
+      "completely": 31.6,
+      "samples": 20
+    }
+  },
+  {
+    "id": "doom",
+    "title": "Doom",
+    "status": "toplay",
+    "year": 2016,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Developed by id software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, Doom returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Expand your gameplay experience using Doom SnapMap game editor to easily create, play, and share your content with the world.",
+    "date": "2026-08-11",
+    "cover": "covers/doom.jpg",
+    "igdbId": 7351,
+    "ttb": {
+      "hastily": 8.0,
+      "normally": 17.2,
+      "completely": 40.7,
+      "samples": 19
+    }
+  },
+  {
+    "id": "indigo-prophecy",
+    "title": "Indigo Prophecy",
+    "status": "toplay",
+    "year": 2005,
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "XBOX",
+      "PS4",
+      "PC",
+      "PS2"
+    ],
+    "score": null,
+    "synopsis": "Indigo Prophecy is an action-adventure game that involves the player in making decisions to alter the narrative. The name change in North America was made to avoid confusion with Michael Moore's Fahrenheit 9/11 documentary film, which was released in 2004. Indigo Prophecy introduced elements like ethical ambiguity, romance, the inability to perish, and interactive storytelling that would endure in Quantic Dream's later games.",
+    "date": "2026-08-11",
+    "cover": "covers/indigo-prophecy.jpg",
+    "igdbId": 1928,
+    "ttb": null
+  },
+  {
+    "id": "resident-evil-7-biohazard",
+    "title": "Resident Evil 7: Biohazard",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "Stadia",
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "PSVR",
+      "PC",
+      "iOS",
+      "PS5",
+      "Mac",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Resident Evil 7: Biohazard is the first game of the Resident Evil series to switch from 3rd-person to fully 1st-person perspective. A complete refresh of gameplay systems simultaneously propels the survival horror experience to another level. It is as much horror as it is survival, boosting up scare elements and minimizing downright shooting action. The game allows use of Sony's PSVR Headset to play in VR mode.",
+    "date": "2026-08-11",
+    "cover": "covers/resident-evil-7-biohazard.jpg",
+    "igdbId": 19562,
+    "ttb": {
+      "hastily": 6.9,
+      "normally": 10.9,
+      "completely": 26.0,
+      "samples": 13
+    }
+  },
+  {
+    "id": "devil-may-cry-5",
+    "title": "Devil May Cry 5",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "Switch 2",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Devil May Cry 5 is a brand-new entry in the legendary over-the-top action series Devil May Cry. The game features three playable characters, each with a radically different stylish combat play style as they take on the city overrun with demons. Developed with Capcom’s in-house proprietary RE engine, the series continues to achieve new heights in fidelity with graphics that utilize photorealistic character designs and stunning lighting and environmental effects.",
+    "date": "2026-08-11",
+    "cover": "covers/devil-may-cry-5.jpg",
+    "igdbId": 76253,
+    "ttb": {
+      "hastily": 5.0,
+      "normally": 8.8,
+      "completely": null,
+      "samples": 4
+    }
+  },
+  {
+    "id": "unreal-tournament-2004",
+    "title": "Unreal Tournament 2004",
+    "status": "played",
+    "year": 2004,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "Linux",
+      "PC",
+      "Mac"
+    ],
+    "score": 9.1,
+    "synopsis": "Unreal Tournament 2004 is a multiplayer first person shooter that combines the kill-or-be-killed experience of gladiatorial combat with cutting-edge technology. Ten game modes - both team-based and \"every man for himself\" -- provide even the most hardcore gamer with palm-sweating challenges through unbelievably detailed indoor arenas and vast outdoor environments. As the ultimate techno-gladiator of the future, players will take their fates into their hands, battling against up to 32 other players online in action-packed, frag-filled arenas.\n\nAssault Mode - Assault mode returns! Redesigned for UT2004, this fan-favorite mode sees teams face-off to defend and attack fortified bases, from fast-moving trains, barreling across an arid alien desert to a Skaarj mother ship, poised to attack the human home world.\n\nOnslaught Mode - Onslaught mode takes team combat to the next level! Opposing teams are pitted against each other to capture and hold strategic points in order to attack and destroy the enemy power core. Taking place in massive outdoor environments, here is where vehicular combat comes into its own. Flying and driving machines take combatants to the frontline and gigantic mobile battle stations serve as a platform from which to launch devastating attacks.\n\nVehicles - Rev-up and ride out in an array of land-, air-, and space-based vehicles that play critical roles in a successful combat strategy in Assault and Onslaught. With vehicles ranging from single man fighters to five man behemoths, Unreal Tournament 2004 provides players with plenty of choices when shopping for a mechanized implement of destruction.\n\nLevels - More than 95 maps will be available immediately, including more than 45 brand new maps for all existing game play modes as well as new modes of play. Vast outdoor environments, deep space combat areas and tightly packed indoor techno-arenas are all waiting for the latest entrants to the Tournament.\n\nWeapons - The entire smorgasbord of frag-dealing weaponry from Unreal Tournament 2003 returns for the experienced player to wield masterfully against new contestants. Those armaments are joined by three new implements of doom: the Mine layer, which disperses spider-like bombs that chase and harass any enemy that comes within range; the anti vehicle rocket launcher, or AVRiL, which deals out a payload of massive rockets tuned to seek and destroy enemy mechanized units; the Grenade Launcher, which launches timed explosives that will bounce on the ground and stick to enemies and enemy vehicles, only to be triggered by the weapons altfire command; and, the return of the notorious Sniper Rifle from the original Unreal tournament, completely redesigned and upgraded to make heads roll.\n\nNew Characters - Unreal Tournament 2004 introduces 32 new characters on four new teams: The human Thunder Crash, lead by Tournament hero, Malcolm; the Robotic Corrupt, lead by an upgraded Xan Kriegor; the Iron Skull, a team of merciless Skaarj warriors; and the Hellions -- wreckless human mercenaries and pirates who delight in the thrill of the kill.\n\nNew Technology - Unreal Tournament not only brings new content for hardcore fans to relish, it also delivers a tremendous technology update over its predecessor, delivering a faster, slicker, deeper experience than ever before.",
+    "date": "2026-08-11",
+    "cover": "covers/unreal-tournament-2004.jpg",
+    "igdbId": 927,
+    "ttb": null
+  },
+  {
+    "id": "sekiro-shadows-die-twice",
+    "title": "Sekiro: Shadows Die Twice",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "Stadia",
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Sekiro: Shadows Die Twice is an action-adventure game set in a reimagined late 1500s Sengoku-era Japan.\n\nPlayers control Wolf, a shinobi on a mission to rescue his kidnapped lord and seek revenge on his enemies. The game emphasizes precise sword combat, stealth, and mobility, replacing traditional RPG elements with a posture-based dueling system.",
+    "date": "2026-08-12",
+    "cover": "covers/sekiro-shadows-die-twice.jpg",
+    "igdbId": 76882,
+    "ttb": {
+      "hastily": 19.8,
+      "normally": 41.9,
+      "completely": 50.5,
+      "samples": 12
+    }
+  },
+  {
+    "id": "dark-souls-iii-deluxe-edition",
+    "title": "Dark Souls III: Deluxe Edition",
+    "status": "toplay",
+    "year": 2016,
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Dark Souls III: Deluxe Edition is a special edition of Dark Souls III, released in April 2016. It includes the base game along with a detailed art book and a soundtrack CD. The Deluxe Edition also comes with a collectable steel book case. This edition does not include the DLC expansions.",
+    "date": "2026-08-12",
+    "cover": "covers/dark-souls-iii-deluxe-edition.jpg",
+    "igdbId": 47486,
+    "ttb": {
+      "hastily": 40.0,
+      "normally": 60.0,
+      "completely": 100.0,
+      "samples": 1
+    }
+  },
+  {
+    "id": "project-zero-2-wii-edition",
+    "title": "Project Zero 2: Wii Edition",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "Wii",
+      "WiiU"
+    ],
+    "score": null,
+    "synopsis": "Fatal Frame 2: Wii Edition is a remake Fatal Frame II: Crimson Butterfly, originally for the PlayStation 2 and the Xbox.\n\nDeep Crimson Butterfly features several major gameplay improvements and enhancements that the original doesn't have such as:\n-A dynamic over the shoulder third person camera angle first used in Mask of the Lunar Eclipse.\n-The map and layout of the game have been updated to work better with the new viewpoint.\n-The graphics and character models are vastly improved, and the costumes were designed with more emphasis on the back since it is constantly in the player's view.",
+    "date": "2026-08-12",
+    "cover": "covers/project-zero-2-wii-edition.jpg",
+    "igdbId": 14409,
+    "ttb": null
+  },
+  {
+    "id": "black-myth-wukong",
+    "title": "Black Myth: Wukong",
+    "status": "toplay",
+    "year": 2024,
+    "genres": [
+      "RPG",
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "Black Myth: Wukong is an action role-playing game developed by Game Science, inspired by the classical Chinese novel Journey to the West. Players control the Destined One, a staff-wielding monkey protagonist, through mostly linear levels interspersed with expansive areas. The game features Soulslike elements, a flexible skill system, and boss encounters of varying intensity. It was the first installment in the Black Myth series and is widely regarded as the first AAA game from the Chinese video game industry.",
+    "date": "2026-08-12",
+    "cover": "covers/black-myth-wukong.jpg",
+    "igdbId": 136879,
+    "ttb": {
+      "hastily": 26.0,
+      "normally": 43.8,
+      "completely": 68.0,
+      "samples": 9
+    }
+  },
+  {
+    "id": "a-way-out",
+    "title": "A Way Out",
+    "status": "toplay",
+    "year": 2018,
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "A Way Out is a cooperative action-adventure game designed exclusively for two-player split-screen play, either locally or online. Each player controls one of two protagonists, Leo and Vincent, who form a reluctant partnership to break out of prison. Gameplay involves stealth, combat, driving, and environmental puzzle-solving, with both characters taking different cooperative roles in each situation. The game features a branching narrative that unfolds simultaneously for both players through its split-screen presentation.",
+    "date": "2026-08-13",
+    "cover": "covers/a-way-out.jpg",
+    "igdbId": 36897,
+    "ttb": {
+      "hastily": 5.0,
+      "normally": 6.3,
+      "completely": 7.0,
+      "samples": 12
+    }
+  },
+  {
+    "id": "assassin-s-creed-ii",
+    "title": "Assassin's Creed II",
+    "status": "toplay",
+    "year": 2009,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Mac",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Discover an intriguing and epic story of power, revenge and conspiracy set during a pivotal moment in history: the Italian Renaissance.\nExperience the freedom and immersion of an all new open world and mission structure with settings such as the rooftops and canals of beautiful Venice. Your options in combat, assassination and escape are vast, with many new weapons, settings and gameplay elements.",
+    "date": "2026-08-13",
+    "cover": "covers/assassin-s-creed-ii.jpg",
+    "igdbId": 127,
+    "ttb": {
+      "hastily": 20.4,
+      "normally": 25.8,
+      "completely": 37.2,
+      "samples": 21
+    }
+  },
+  {
+    "id": "bioshock-infinite",
+    "title": "BioShock Infinite",
+    "status": "toplay",
+    "year": 2013,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "Linux",
+      "PC",
+      "Mac",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "BioShock Infinite is the third game in the BioShock series. It is not a direct sequel/prequel to any of the previous BioShock games but takes place in an entirely different setting, although it shares similar features, gameplay and concepts with the previous games. BioShock Infinite features a range of environments that force the player to adapt, with different weapons and strategies for each situation. Interior spaces feature close combat with enemies, but unlike previous games set in Rapture, the setting of Infinite contains open spaces with emphasis on sniping and ranged combat against as many as fifteen enemies at once.",
+    "date": "2026-08-13",
+    "cover": "covers/bioshock-infinite.jpg",
+    "igdbId": 538,
+    "ttb": {
+      "hastily": 12.8,
+      "normally": 17.1,
+      "completely": 28.6,
+      "samples": 28
+    }
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "status": "toplay",
+    "year": 2022,
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Elden Ring is an action RPG developed by FromSoftware and published by Bandai Namco Entertainment, released in February 2022. Directed by Hidetaka Miyazaki, with world-building contributions from novelist George R. R. Martin, the game features an expansive open world called the Lands Between. Players assume the role of a customisable character known as the Tarnished, who must explore this world, battle formidable enemies, and seek to restore the Elden Ring to become the Elden Lord.\n\nThe game builds on the challenging gameplay mechanics familiar from the Dark Souls series but introduces a more open-ended structure with vast exploration, dynamic weather, and a day-night cycle. It offers deep lore, complex characters, and an interconnected world filled with secrets, dungeons, and powerful bosses.",
+    "date": "2026-08-13",
+    "cover": "covers/elden-ring.jpg",
+    "igdbId": 119133,
+    "ttb": {
+      "hastily": 44.5,
+      "normally": 119.4,
+      "completely": 173.9,
+      "samples": 24
+    }
+  },
+  {
+    "id": "fallout-3-game-of-the-year-edition",
+    "title": "Fallout 3: Game of the Year Edition",
+    "status": "toplay",
+    "year": 2009,
+    "genres": [
+      "Shooter",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Prepare for the Future with Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
+    "date": "2026-08-13",
+    "cover": "covers/fallout-3-game-of-the-year-edition.jpg",
+    "igdbId": 21892,
+    "ttb": {
+      "hastily": null,
+      "normally": 11.0,
+      "completely": 97.7,
+      "samples": 4
+    }
+  },
+  {
+    "id": "firewatch",
+    "title": "Firewatch",
+    "status": "toplay",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Firewatch is a single-player first-person video game where you, as a man named Henry, explore the Wyoming wilderness after taking a summer job as a fire lookout. What is supposed to be a peaceful respite from your complicated life takes a turn when you start to question some of the things that are happening to you.\n\nYour only human connection is over a handheld radio, which you’ll use to speak with your supervisor Delilah about the things both of you are experiencing.",
+    "date": "2026-08-13",
+    "cover": "covers/firewatch.jpg",
+    "igdbId": 9730,
+    "ttb": {
+      "hastily": 4.0,
+      "normally": 4.7,
+      "completely": 5.8,
+      "samples": 26
+    }
+  },
+  {
+    "id": "alan-wake",
+    "title": "Alan Wake",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Alan Wake is a psychological horror action-adventure game developed by Remedy Entertainment. The narrative centres on Alan Wake, a bestselling thriller novelist experiencing writer's block. He travels to the small town of Bright Falls with his wife, Alice, seeking a change of environment. Shortly after their arrival, Alice vanishes under mysterious circumstances.\n\nAs Alan searches for her, he discovers pages of a thriller novel he does not recall writing. The events described in these pages begin to manifest in reality, and Alan encounters hostile supernatural entities known as the \"Taken,\" who are controlled by darkness. The gameplay involves navigating Bright Falls and using light to combat these dark forces. The storyline explores themes of reality and fiction, along with the influence of the written word.",
+    "date": "2026-08-13",
+    "cover": "covers/alan-wake.jpg",
+    "igdbId": 1062,
+    "ttb": {
+      "hastily": 8.5,
+      "normally": 13.0,
+      "completely": 32.5,
+      "samples": 21
+    }
+  },
+  {
+    "id": "hellblade-senua-s-sacrifice",
+    "title": "Hellblade: Senua's Sacrifice",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "Simulator",
+      "Hack & Slash",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "PC",
+      "PS5",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Hellblade: Senua's Sacrifice is a single-player action-adventure game set in a dark fantasy world inspired by Norse mythology and Celtic culture. Players control Senua, a Pict warrior who journeys into the Norse underworld to rescue the soul of her dead lover from the goddess Hela. The game blends melee combat, puzzle solving, and psychological horror, with Senua's psychosis shaping how the world is perceived, including voices that provide guidance or attempt to mislead the player.\n\nThe game was developed by a team of around twenty people and features no heads-up display or tutorials. Instead, audio cues from voices in Senua's head guide the player through combat and environmental challenges. The portrayal of psychosis was developed in collaboration with neuroscientists and people who experience the condition.",
+    "date": "2026-08-13",
+    "cover": "covers/hellblade-senua-s-sacrifice.jpg",
+    "igdbId": 7603,
+    "ttb": {
+      "hastily": 5.5,
+      "normally": 7.9,
+      "completely": 10.1,
+      "samples": 15
+    }
+  },
+  {
+    "id": "killer-is-dead",
+    "title": "Killer Is Dead",
+    "status": "toplay",
+    "year": 2013,
+    "genres": [
+      "Hack & Slash"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Killer is Dead is an action game that is no sequel to Killer7 or the No More Heroes series by the same developers, but shares elements such as violent action, a main character wielding a katana as the most prominent weapon, assassins as an important theme, and a cel shaded visual style. The game is divided into 12 episodes in locations all over the world and stars Mondo Zap as the main character. He is a contract executioner who works for the he Bryan Execution Firm. The game is set in the future and Monda receives jobs to kill cyborgs and assassins. Before each mission a brief overview of the objective is shown against a world map and in between the fighting there are often animated sequences that further the story. Completing a main mission usually opens up several side missions.",
+    "date": "2026-08-13",
+    "cover": "covers/killer-is-dead.jpg",
+    "igdbId": 2940,
+    "ttb": {
+      "hastily": 7.0,
+      "normally": 10.8,
+      "completely": 18.2,
+      "samples": 3
+    }
+  },
+  {
+    "id": "metro-last-light-redux",
+    "title": "Metro: Last Light Redux",
+    "status": "toplay",
+    "year": 2014,
+    "genres": [
+      "Shooter",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "Stadia",
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Metro: Last Light Redux is the definitive version of the critically acclaimed ‘Metro: Last Light’, rebuilt in the latest and greatest iteration of the 4A Engine for Next Gen. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.\n\nThis definitive version also includes all previously released DLC, adding 10 hours of bonus single-player content to the huge solo campaign. Fans of the original game will notice new features and gameplay improvements, including new melee animations, the ability to check your watch and ammo supplies on the fly, and new full-body player animations.\n\nAnd those who favoured the more survival-horror oriented gameplay of the cult prequel ‘Metro 2033’ will find a new way to experience the campaign thanks to the introduction of two unique Play Styles – Survival and Spartan. The former transforms Last light from a more action-oriented stealth combat experience to a fraught, slow burn fight for survival. With the legendary Ranger Mode included to offer an extra layer of challenge and immersion, Metro: Last Light Redux offers hours of AAA gameplay for an incredible price.",
+    "date": "2026-08-13",
+    "cover": "covers/metro-last-light-redux.jpg",
+    "igdbId": 50199,
+    "ttb": {
+      "hastily": 8.7,
+      "normally": 11.7,
+      "completely": 20.0,
+      "samples": 12
+    }
+  },
+  {
+    "id": "dishonored-2",
+    "title": "Dishonored 2",
+    "status": "toplay",
+    "year": 2016,
+    "genres": [
+      "Shooter",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Dishonored 2 is a first-person action video game and the sequel to Dishonored. It borrows many of the gameplay elements from the first opus: players define their own play style by blending action, assassination, stealth, mobility and combat. Combining tools at their disposal, players are allowed options to eliminate enemies, whether they choose to pursue them unseen or ruthlessly attack head on. Dishonored 2 features the same campaign style as its predecessor in which the protagonist must advance through a series of missions.",
+    "date": "2026-08-13",
+    "cover": "covers/dishonored-2.jpg",
+    "igdbId": 11118,
+    "ttb": {
+      "hastily": 12.0,
+      "normally": 20.4,
+      "completely": 49.1,
+      "samples": 9
+    }
+  },
+  {
+    "id": "a-walk-in-the-dark",
+    "title": "A Walk in the Dark",
+    "status": "toplay",
+    "year": 2013,
+    "genres": [
+      "Platform",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "In this action platformer you play as a cat, Bast, running through a dark fantasy world. You’ll be running, jumping and sliding with smooth and precise controls designed to make you feel like a cat. But it wont be easy. In the dark you never know what lies in the shadows. In this dark journey you will face strange creatures and dangerous traps.",
+    "date": "2026-08-13",
+    "cover": "covers/a-walk-in-the-dark.jpg",
+    "igdbId": 16646,
+    "ttb": null
+  },
+  {
+    "id": "the-walking-dead-the-telltale-definitive-series",
+    "title": "The Walking Dead: The Telltale Definitive Series",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "Point & Click",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "The Walking Dead: The Telltale Definitive Series contains all 4 Seasons and The Walking Dead: Michonne, which includes over 50 hours of gameplay across 23 unique episodes. With graphical enhancements, behind the scenes bonus features and faithful recreations of classic menus, this is the definitive way to experience Clementine's journey and find out how her story ends.",
+    "date": "2026-08-13",
+    "cover": "covers/the-walking-dead-the-telltale-definitive-series.jpg",
+    "igdbId": 117514,
+    "ttb": {
+      "hastily": null,
+      "normally": 49.0,
+      "completely": null,
+      "samples": 2
+    }
+  },
+  {
+    "id": "the-talos-principle",
+    "title": "The Talos Principle",
+    "status": "toplay",
+    "year": 2014,
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "The Talos Principle is a philosophical first-person puzzle game from Croteam, the creators of the legendary Serious Sam series, written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything).",
+    "date": "2026-08-13",
+    "cover": "covers/the-talos-principle.jpg",
+    "igdbId": 7386,
+    "ttb": {
+      "hastily": 10.8,
+      "normally": 20.0,
+      "completely": 42.3,
+      "samples": 12
+    }
+  },
+  {
+    "id": "tournament-of-legends",
+    "title": "Tournament of Legends",
+    "status": "played",
+    "year": 2010,
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "score": 6.9,
+    "synopsis": "Tournament of Legends has ten playable characters based on Graeco-Roman mythology. The gameplay is described as a hybrid between traditional fighting games and the alternative puzzle-based gameplay of Punch Out!!. Players gesture using the Wii Remote and Nunchuk to initiate horizontal and vertical attacks. Button inputs allow the character to dodge, block, charge and use special attacks. To win a match, the player must defeat the opponent three times in two 90 second rounds. Breaks are allowed for fighters to regenerate armor and health.\n\n\"Become A Legend In, \"The Wildest Wii Fighter Yet!\"\n\nExperience 3D weapon and magic duels against the biggest legends of world mythology. Enter powerful battles with a rich assortment of blade weapons and tons of magical attacks. Dodge giant creatures and even wield two weapons at the same time.\"",
+    "date": "2026-08-13",
+    "cover": "covers/tournament-of-legends.jpg",
+    "igdbId": 5239,
+    "ttb": null
+  }
+]
