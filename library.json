@@ -198,31 +198,6 @@
     }
   },
   {
-    "id": "lethal-league",
-    "title": "Lethal League",
-    "status": "played",
-    "year": 2014,
-    "genres": [
-      "Fighting",
-      "Sport",
-      "Indie",
-      "Arcade"
-    ],
-    "platforms": [
-      "PS4",
-      "Linux",
-      "PC",
-      "Mac",
-      "XONE"
-    ],
-    "score": 8.5,
-    "synopsis": "Lethal League is a competitive projectile fighting game where you have to hit an anti-gravity ball into the face of your opponent to win. The ball speeds up with every strike, up to explosively extreme velocities. Play intense local matches with friends and foes, challenge yourself in the singleplayer mode or battle it out online.",
-    "date": "2026-08-11",
-    "cover": "covers/lethal-league.jpg",
-    "igdbId": 8262,
-    "ttb": null
-  },
-  {
     "id": "hitman-absolution",
     "title": "Hitman: Absolution",
     "status": "played",
@@ -1187,5 +1162,89 @@
     "cover": "covers/tournament-of-legends.jpg",
     "igdbId": 5239,
     "ttb": null
+  },
+  {
+    "id": "lethal-league-blaze",
+    "title": "Lethal League Blaze",
+    "status": "toplay",
+    "year": 2018,
+    "genres": [
+      "Fighting",
+      "Sport",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Banging beats and mad style, Lethal League Blaze is the most intense ball game you can play online with up to 4 players.",
+    "date": "2026-09-07",
+    "cover": "covers/lethal-league-blaze.jpg",
+    "igdbId": 59858,
+    "ttb": null
+  },
+  {
+    "id": "lethal-league-blaze-2",
+    "title": "Lethal League Blaze",
+    "status": "played",
+    "year": 2018,
+    "genres": [
+      "Fighting",
+      "Sport",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": 8.9,
+    "synopsis": "Banging beats and mad style, Lethal League Blaze is the most intense ball game you can play online with up to 4 players.",
+    "date": "2026-09-07",
+    "cover": "covers/lethal-league-blaze-2.jpg",
+    "igdbId": 59858,
+    "ttb": null
+  },
+  {
+    "id": "undertale",
+    "title": "Undertale",
+    "status": "toplay",
+    "year": 2015,
+    "genres": [
+      "Puzzle",
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "Vita",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "A small child falls into the Underground, where monsters have long been banished by humans and are hunting every human that they find. The player controls the child as they try to make it back to the Surface through hostile environments, all the while engaging with a turn-based combat system with puzzle-solving and bullet hell elements, as well as other unconventional game mechanics.",
+    "date": "2026-09-07",
+    "cover": "covers/undertale.jpg",
+    "igdbId": 12517,
+    "ttb": {
+      "hastily": 4.3,
+      "normally": 8.3,
+      "completely": 13.0,
+      "samples": 23
+    }
   }
 ]
