@@ -1249,5 +1249,531 @@ const LIBRARY = [
       "completely": 13.0,
       "samples": 23
     }
+  },
+  {
+    "id": "super-mario-odyssey",
+    "title": "Super Mario Odyssey",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "Switch 2",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!",
+    "date": "2026-09-14",
+    "cover": "covers/super-mario-odyssey.jpg",
+    "igdbId": 26758,
+    "ttb": {
+      "hastily": 9.5,
+      "normally": 18.6,
+      "completely": 68.6,
+      "samples": 9
+    }
+  },
+  {
+    "id": "new-super-mario-bros-u-deluxe",
+    "title": "New Super Mario Bros. U Deluxe",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "Switch 2",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters!",
+    "date": "2026-09-14",
+    "cover": "covers/new-super-mario-bros-u-deluxe.jpg",
+    "igdbId": 109457,
+    "ttb": {
+      "hastily": 9.0,
+      "normally": null,
+      "completely": null,
+      "samples": 1
+    }
+  },
+  {
+    "id": "super-mario-galaxy",
+    "title": "Super Mario Galaxy",
+    "status": "toplay",
+    "year": 2007,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "Wii",
+      "WiiU"
+    ],
+    "score": null,
+    "synopsis": "A 3D platformer and first Wii entry in the Super Mario franchise, Super Mario Galaxy sees Mario jump across planets and galaxies with varying items, enemies, geographies and gravity mechanics in order to reach his enemy Bowser, who has attacked the Mushroom Kingdom and hijacked Princess Peach's castle with her inside.",
+    "date": "2026-09-14",
+    "cover": "covers/super-mario-galaxy.jpg",
+    "igdbId": 1077,
+    "ttb": {
+      "hastily": 9.5,
+      "normally": 14.0,
+      "completely": 19.3,
+      "samples": 7
+    }
+  },
+  {
+    "id": "super-mario-galaxy-2",
+    "title": "Super Mario Galaxy 2",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "Wii",
+      "WiiU"
+    ],
+    "score": null,
+    "synopsis": "Super Mario Galaxy 2 is the sequel to Super Mario Galaxy and the fourth 3D platformer entry in the Mario franchise. The sequel retains many elements from its predecessor, such as the adventure being in outer space, the element of gravity, and recurring objects such as Launch Stars and Sling Stars. Returning items include the Bee Mushroom and the Fire Flower. However, the game introduces new elements as well, such as the utilization of Yoshi, new power-ups like the Cloud Flower, and the use of a guide within the game for beginner players.",
+    "date": "2026-09-14",
+    "cover": "covers/super-mario-galaxy-2.jpg",
+    "igdbId": 1078,
+    "ttb": {
+      "hastily": 15.0,
+      "normally": 21.7,
+      "completely": 28.7,
+      "samples": 4
+    }
+  },
+  {
+    "id": "red-steel-2",
+    "title": "Red Steel 2",
+    "status": "played",
+    "year": 2010,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "score": 8.0,
+    "synopsis": "The game begins as an unnamed Hero, the last member of the Kusagari Clan, is being dragged across the desert, tied to the back of a motorcycle. He manages to break free, but Payne, the leader of the Jackals - a vast gang of thugs, murderers and thieves - steals the Hero's katana. While running from the Jackals, the Hero rescues his old swordsmaster Jian who was to soon be executed by the Jackals. After the rescue, Jian allows the Hero to borrow his sword until the Hero can recover his own from Payne.",
+    "date": "2026-09-14",
+    "cover": "covers/red-steel-2.jpg",
+    "igdbId": 2179,
+    "ttb": null
+  },
+  {
+    "id": "persona-5-royal",
+    "title": "Persona 5 Royal",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "PC",
+      "PS5",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Persona 5 Royal is an enhanced version of the turn-based role-playing game Persona 5, set in modern-day Tokyo. Players control a high school student who leads a group of secret vigilantes called the Phantom Thieves of Hearts, exploring supernatural dungeons called Palaces to change the hearts of corrupt adults. The game combines dungeon crawling and turn-based combat with social simulation elements, where players manage daily activities, build relationships, and develop character statistics across a school year. Royal adds new characters, a third semester, an additional Palace, new music, and expanded story content to the original game.",
+    "date": "2026-09-14",
+    "cover": "covers/persona-5-royal.jpg",
+    "igdbId": 114283,
+    "ttb": {
+      "hastily": 87.5,
+      "normally": 117.9,
+      "completely": 222.0,
+      "samples": 10
+    }
+  },
+  {
+    "id": "yakuza-0",
+    "title": "Yakuza 0",
+    "status": "toplay",
+    "year": 2015,
+    "genres": [
+      "RPG",
+      "Simulator",
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Yakuza 0 is an action-adventure beat 'em up and a prequel to the Yakuza series, set in 1988 Japan during the country's economic bubble era. The game follows two protagonists: Kazuma Kiryu in Tokyo's Kamurocho district and Goro Majima in Osaka's Sotenbori district. Players alternate between their stories as they navigate the criminal underworld, engaging in street fights using multiple switchable combat styles, managing businesses, and participating in a wide variety of side activities and minigames. The game is largely credited with bringing the long-running franchise to mainstream Western attention.",
+    "date": "2026-09-14",
+    "cover": "covers/yakuza-0.jpg",
+    "igdbId": 11397,
+    "ttb": {
+      "hastily": 30.0,
+      "normally": 52.2,
+      "completely": 115.0,
+      "samples": 7
+    }
+  },
+  {
+    "id": "nier-automata",
+    "title": "NieR: Automata",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "RPG",
+      "Hack & Slash"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines.",
+    "date": "2026-09-14",
+    "cover": "covers/nier-automata.jpg",
+    "igdbId": 11208,
+    "ttb": {
+      "hastily": 21.8,
+      "normally": 33.3,
+      "completely": 76.9,
+      "samples": 18
+    }
+  },
+  {
+    "id": "resident-evil-requiem",
+    "title": "Resident Evil Requiem",
+    "status": "toplay",
+    "year": 2026,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "Switch 2",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "Resident Evil Requiem is the ninth entry in the Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core.",
+    "date": "2026-09-14",
+    "cover": "covers/resident-evil-requiem.jpg",
+    "igdbId": 347668,
+    "ttb": {
+      "hastily": 7.6,
+      "normally": 13.3,
+      "completely": 29.8,
+      "samples": 35
+    }
+  },
+  {
+    "id": "neon-white",
+    "title": "Neon White",
+    "status": "toplay",
+    "year": 2022,
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Indie",
+      "Arcade",
+      "Visual Novel"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "PC",
+      "PS5",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Neon White is a single-player speedrunning FPS where you can sacrifice your guns for godlike parkour moves.",
+    "date": "2026-09-14",
+    "cover": "covers/neon-white.jpg",
+    "igdbId": 143612,
+    "ttb": {
+      "hastily": 8.0,
+      "normally": null,
+      "completely": null,
+      "samples": 1
+    }
+  },
+  {
+    "id": "halo-4",
+    "title": "Halo 4",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "X360",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Halo 4 marks the start of an epic new saga within the award-winning Halo universe. The Master Chief returns in this award-winning first-person shooter developed by 343 Industries. Shipwrecked on a mysterious world, faced with new enemies and deadly technology, the Chief returns to battle against an ancient evil bent on vengeance and annihilation...the universe will never be the same.",
+    "date": "2026-09-14",
+    "cover": "covers/halo-4.jpg",
+    "igdbId": 991,
+    "ttb": null
+  },
+  {
+    "id": "borderlands-3",
+    "title": "Borderlands 3",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "Shooter",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "Stadia",
+      "Series X|S",
+      "PS4",
+      "PC",
+      "PS5",
+      "Mac",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Borderlands 3 is a first-person looter shooter set seven years after the events of Borderlands 2. Players select one of four new Vault Hunters and travel across multiple planets to stop Troy and Tyreen Calypso, twin cult leaders seeking to harness the power of alien Vaults scattered throughout the galaxy. The game features procedurally generated weapons, cooperative multiplayer for up to four players, expanded skill trees with multiple action skills per character, and new traversal mechanics including sliding and mantling.",
+    "date": "2026-09-14",
+    "cover": "covers/borderlands-3.jpg",
+    "igdbId": 19164,
+    "ttb": {
+      "hastily": 25.0,
+      "normally": 41.7,
+      "completely": 100.0,
+      "samples": 3
+    }
+  },
+  {
+    "id": "the-legend-of-zelda-breath-of-the-wild",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "WiiU",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "The Legend of Zelda: Breath of the Wild is the first 3D open-world game in the Zelda series. Link can travel anywhere and be equipped with weapons and armor found throughout the world to grant him various bonuses. Unlike many games in the series, Breath of the Wild does not impose a specific order in which quests or dungeons must be completed. While the game still has environmental obstacles such as weather effects, inhospitable lands, or powerful enemies, many of them can be overcome using the right method. A lot of critics ranked Breath of the Wild as one of the best video games of all time.",
+    "date": "2026-09-14",
+    "cover": "covers/the-legend-of-zelda-breath-of-the-wild.jpg",
+    "igdbId": 7346,
+    "ttb": {
+      "hastily": 37.5,
+      "normally": 92.3,
+      "completely": 246.8,
+      "samples": 20
+    }
+  },
+  {
+    "id": "inside",
+    "title": "Inside",
+    "status": "toplay",
+    "year": 2016,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "iOS",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Inside is a puzzle-platformer developed by Playdead, presented in a 2.5D side-scrolling format with a dark, predominantly monochromatic visual style. The player controls an unnamed boy navigating a dystopian environment, solving environmental puzzles, avoiding hostile guards and creatures, and using a mind-control device to manipulate bodies in order to progress. The game features no dialogue or HUD, relying on visual and audio cues to guide the player through its increasingly surreal and dangerous settings.",
+    "date": "2026-09-14",
+    "cover": "covers/inside.jpg",
+    "igdbId": 7342,
+    "ttb": {
+      "hastily": 2.2,
+      "normally": 3.5,
+      "completely": 4.9,
+      "samples": 19
+    }
+  },
+  {
+    "id": "castlevania-dominus-collection",
+    "title": "Castlevania Dominus Collection",
+    "status": "toplay",
+    "year": 2024,
+    "genres": [
+      "Platform",
+      "RPG",
+      "Arcade"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Three incredible action adventure games from the Castlevania series have finally returned, for the first time! But wait, there's more! Haunted Castle Revisited, a redesigned version of the very first Castlevania arcade game, makes its debut!",
+    "date": "2026-09-14",
+    "cover": "covers/castlevania-dominus-collection.jpg",
+    "igdbId": 314944,
+    "ttb": null
+  },
+  {
+    "id": "shovel-knight",
+    "title": "Shovel Knight",
+    "status": "toplay",
+    "year": 2014,
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Linux",
+      "3DS",
+      "PC",
+      "Mac",
+      "WiiU",
+      "Vita",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a small knight with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly!\n\nBut, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious music, crazy bosses, humor and levity, and real heart… Shovel Knight is for you!",
+    "date": "2026-09-14",
+    "cover": "covers/shovel-knight.jpg",
+    "igdbId": 7444,
+    "ttb": {
+      "hastily": 2.7,
+      "normally": 7.6,
+      "completely": 10.0,
+      "samples": 7
+    }
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Linux",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "Mac",
+      "WiiU",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "A 2D metroidvania with an emphasis on close combat and exploration in which the player enters the once-prosperous now-bleak insect kingdom of Hallownest, travels through its various districts, meets friendly inhabitants, fights hostile ones and uncovers the kingdom's history while improving their combat abilities and movement arsenal by fighting bosses and accessing out-of-the-way areas.",
+    "date": "2026-09-14",
+    "cover": "covers/hollow-knight.jpg",
+    "igdbId": 14593,
+    "ttb": {
+      "hastily": 16.7,
+      "normally": 36.4,
+      "completely": 73.2,
+      "samples": 30
+    }
+  },
+  {
+    "id": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "status": "toplay",
+    "year": 2025,
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Linux",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Hollow Knight: Silksong is the epic sequel to Hollow Knight, the epic action-adventure of bugs and heroes. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.",
+    "date": "2026-09-14",
+    "cover": "covers/hollow-knight-silksong.jpg",
+    "igdbId": 115289,
+    "ttb": {
+      "hastily": 17.1,
+      "normally": 51.5,
+      "completely": 82.0,
+      "samples": 27
+    }
+  },
+  {
+    "id": "subnautica",
+    "title": "Subnautica",
+    "status": "toplay",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "Android",
+      "PC",
+      "iOS",
+      "Steam VR",
+      "PS5",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more, all while trying to survive.",
+    "date": "2026-09-14",
+    "cover": "covers/subnautica.jpg",
+    "igdbId": 9254,
+    "ttb": {
+      "hastily": 26.0,
+      "normally": 50.8,
+      "completely": 48.9,
+      "samples": 9
+    }
   }
 ];
