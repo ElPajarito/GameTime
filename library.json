@@ -1772,5 +1772,87 @@
       "completely": 48.9,
       "samples": 9
     }
+  },
+  {
+    "id": "ultrakill",
+    "title": "Ultrakill",
+    "status": "toplay",
+    "year": 2020,
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "score": null,
+    "synopsis": "Ultrakill is a fast-paced ultraviolent retro FPS combining the skill-based scoring from character action games with unadulterated carnage inspired by the best shooters of the 90's. Rip apart your foes with varied destructive weapons and shower in their blood to regain your health.",
+    "date": "2026-09-15",
+    "cover": "covers/ultrakill.jpg",
+    "igdbId": 124333,
+    "ttb": {
+      "hastily": 3.9,
+      "normally": 7.4,
+      "completely": 168.7,
+      "samples": 7
+    }
+  },
+  {
+    "id": "thumper",
+    "title": "Thumper",
+    "status": "toplay",
+    "year": 2016,
+    "genres": [
+      "Music",
+      "Adventure",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "Meta Quest 2",
+      "Stadia",
+      "PSVR2",
+      "PS4",
+      "PSVR",
+      "Android",
+      "PC",
+      "iOS",
+      "Steam VR",
+      "PS5",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Thumper is a rhythm violence game. It combines classic rhythm-action with breakneck speed and brutal physicality.\nThumper strips rhythm gaming down to its core. Classic rhythm-action is combined with breakneck speed and brutal physicality. With one analog stick and one button, you control a space beetle while hurtling through stunning and treacherous worlds.\nThere's no blood or gore, but you'll feel the violence.",
+    "date": "2026-09-15",
+    "cover": "covers/thumper.jpg",
+    "igdbId": 10960,
+    "ttb": null
+  },
+  {
+    "id": "total-war-shogun-2",
+    "title": "Total War: Shogun 2",
+    "status": "toplay",
+    "year": 2011,
+    "genres": [
+      "Strategy",
+      "Simulator",
+      "Strategy",
+      "Strategy",
+      "Tactical"
+    ],
+    "platforms": [
+      "Linux",
+      "PC",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "In Total War: Shogun 2 you choose from one of 9 (10 with Ikko-Ikki dlc) clans, each with their own unique traits and skills and each with their own RPG-style warlord to lead them.\nUse a mixture of diplomacy, political manoeuvring, province building, research and special agents such as Ninja assassins or Geisha spies to get your enemies exactly where you want them.\nAn intuitive user interface and a lovingly-created, complex and detailed campaign map make it both easy and enjoyable to build and run cities, recruit and move troops and issue commands – both noble and dishonorable, all with the aim of mastering enemy forces and seizing their lands.",
+    "date": "2026-09-15",
+    "cover": "covers/total-war-shogun-2.jpg",
+    "igdbId": 432,
+    "ttb": null
   }
 ]
