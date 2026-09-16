@@ -425,8 +425,9 @@ const Storm = (() => {
     ringCount = 4;
     const per = Math.ceil(pool.length / ringCount);
     pool.forEach((g, i) => {
-      const ring = Math.min(ringCount - 1, Math.floor(i / per));
-      const idx = i % per, cnt = Math.min(per, pool.length - ring * per);
+      const block = Math.min(ringCount - 1, Math.floor(i / per));
+      const ring = ringCount - 1 - block;          // first sorted item -> top ring
+      const idx = i % per, cnt = Math.min(per, pool.length - block * per);
       const len = mainHours(g);
       const el = document.createElement("div");
       el.className = "sc";
