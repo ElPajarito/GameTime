@@ -1884,5 +1884,33 @@ const LIBRARY = [
       "completely": 150.0,
       "samples": 1
     }
+  },
+  {
+    "id": "fahrenheit-indigo-prophecy-remastered",
+    "title": "Fahrenheit: Indigo Prophecy Remastered",
+    "status": "toplay",
+    "year": 2015,
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "Linux",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "Fahrenheit: Indigo Prophecy Remastered is a remastered version of the 2005 interactive drama, originally released as Fahrenheit and titled Indigo Prophecy in North America. It features updated graphics, controller support, and content based on the uncut international version.\n\nThe game follows a supernatural murder mystery presented through multiple playable characters, branching narrative sequences, and music composed by Angelo Badalamenti.",
+    "date": "2026-09-16",
+    "cover": "covers/fahrenheit-indigo-prophecy-remastered.jpg",
+    "igdbId": 25009,
+    "ttb": {
+      "hastily": 7.0,
+      "normally": 8.0,
+      "completely": null,
+      "samples": 1
+    }
   }
 ];
