@@ -428,7 +428,7 @@ const Storm = (() => {
       const block = Math.min(ringCount - 1, Math.floor(i / per));
       const ring = ringCount - 1 - block;          // first sorted item -> top ring
       const idx = i % per, cnt = Math.min(per, pool.length - block * per);
-      const len = mainHours(g);
+      const len = state.sortLib === "len" ? mainHours(g) : null;
       const el = document.createElement("div");
       el.className = "sc";
       el.innerHTML = `${len ? `<span class="n">${fmtH(len)}</span>` : ""}
