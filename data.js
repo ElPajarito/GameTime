@@ -1912,5 +1912,422 @@ const LIBRARY = [
       "completely": null,
       "samples": 1
     }
+  },
+  {
+    "id": "street-fighter-6",
+    "title": "Street Fighter 6",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "Fighting",
+      "Arcade"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "The evolution of fighting games starts with our traditional Fighting Ground, and then we're turning the genre on its head with World Tour and Battle Hub for a total of three modes where anyone can play to their liking.\n\nNo one starts off as a champion. You get there step by step, punch by punch.\nTake up the challenge and bring your game to the next level.",
+    "date": "2026-09-17",
+    "cover": "covers/street-fighter-6.jpg",
+    "igdbId": 191692,
+    "ttb": {
+      "hastily": 10.0,
+      "normally": 20.0,
+      "completely": 50.0,
+      "samples": 4
+    }
+  },
+  {
+    "id": "streets-of-rage-4",
+    "title": "Streets of Rage 4",
+    "status": "toplay",
+    "year": 2020,
+    "genres": [
+      "Fighting",
+      "Hack & Slash",
+      "Adventure",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "Stadia",
+      "PS4",
+      "Linux",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Streets of Rage 4 is a side-scrolling beat 'em up that continues the series following the original trilogy. Players fight through Wood Oak City using a mix of returning and new characters, each with their own combat styles and special moves. The game builds on the classic formula with new mechanics while maintaining the responsive, straightforward action the series is known for. Featuring hand-drawn visuals from the team behind Wonder Boy: The Dragon's Trap, it supports both solo and cooperative play locally or online across multiple difficulty levels.",
+    "date": "2026-09-17",
+    "cover": "covers/streets-of-rage-4.jpg",
+    "igdbId": 107262,
+    "ttb": {
+      "hastily": 5.5,
+      "normally": 3.2,
+      "completely": null,
+      "samples": 3
+    }
+  },
+  {
+    "id": "trackmania-nations-forever",
+    "title": "TrackMania Nations Forever",
+    "status": "toplay",
+    "year": 2008,
+    "genres": [
+      "Racing",
+      "Arcade"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "score": null,
+    "synopsis": "TrackMania Nations Forever offers a new \"Forever\" version of the Stadium environment, a solid solo mode and 65 brand new, progressively challenging tracks. TrackMania Nations Forever will unite an even larger number of players than the original Nations thanks to its engaging multiplayer modes, innovative online functions and revolutionary interactivity between players.",
+    "date": "2026-09-17",
+    "cover": "covers/trackmania-nations-forever.jpg",
+    "igdbId": 15773,
+    "ttb": null
+  },
+  {
+    "id": "metal-gear-solid-v-the-phantom-pain",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "status": "toplay",
+    "year": 2015,
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "X360",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Metal Gear Solid V: The Phantom Pain is the sequel to Metal Gear Solid V: Ground Zeroes and a prequel to the original Metal Gear. The game has a complex story with long cut-scene sequences, but there are fewer and they are shorter compared to earlier Metal Gear Solid titles. Most of the gameplay mechanics introduced in Ground Zeroes are carried over: it is still an action game and stealth oriented but replaces the linear corridor design from most earlier titles with large open world environments that offer the player unrestricted freedom for the approach. The world has now a real-time day and night cycle and various weather effects that influence enemy behaviour, visibility and sound. Sabotaging or destroying certain structures can also influence other parts of the map.",
+    "date": "2026-09-17",
+    "cover": "covers/metal-gear-solid-v-the-phantom-pain.jpg",
+    "igdbId": 1985,
+    "ttb": {
+      "hastily": 49.0,
+      "normally": 101.0,
+      "completely": null,
+      "samples": 6
+    }
+  },
+  {
+    "id": "max-payne-2-the-fall-of-max-payne",
+    "title": "Max Payne 2: The Fall of Max Payne",
+    "status": "toplay",
+    "year": 2003,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XBOX",
+      "PS3",
+      "PC",
+      "X360",
+      "PS2"
+    ],
+    "score": null,
+    "synopsis": "Max Payne 2 is a third-person shooter, in which the player assumes the role of Max Payne, but also plays as Mona Sax in a few levels. Initially, the player's weapon is a 9mm pistol. As they progress, players access other weapons including other handguns, shotguns, submachine guns, assault rifles, sniper rifles, and hand-thrown weapons. To move the game along, the player is told what the next objective is through Max's internal monologue, in which Max iterates what his next steps should be.",
+    "date": "2026-09-17",
+    "cover": "covers/max-payne-2-the-fall-of-max-payne.jpg",
+    "igdbId": 19,
+    "ttb": {
+      "hastily": 5.3,
+      "normally": 7.4,
+      "completely": 8.3,
+      "samples": 7
+    }
+  },
+  {
+    "id": "trine-2-complete-story",
+    "title": "Trine 2: Complete Story",
+    "status": "toplay",
+    "year": 2013,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Trine 2: Complete Story is a sidescrolling game of action, puzzles and platforming.\n\nTrine 2: Complete Story fully integrates the main campaign of Trine 2 with the Goblin Menace expansion and the unlockable Dwarven Caverns level, combining them into one mighty fairytale.",
+    "date": "2026-09-17",
+    "cover": "covers/trine-2-complete-story.jpg",
+    "igdbId": 38932,
+    "ttb": {
+      "hastily": 20.0,
+      "normally": 30.0,
+      "completely": 55.5,
+      "samples": 2
+    }
+  },
+  {
+    "id": "portal",
+    "title": "Portal",
+    "status": "played",
+    "year": 2007,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "Linux",
+      "Android",
+      "PC",
+      "Mac",
+      "X360",
+      "Switch"
+    ],
+    "score": 9.0,
+    "synopsis": "Waking up in a seemingly empty laboratory, the player is made to complete various physics-based puzzle challenges through numerous test chambers in order to test out the new Aperture Science Handheld Portal Device, without an explanation as to how, why or by whom.",
+    "date": "2026-09-17",
+    "cover": "covers/portal.jpg",
+    "igdbId": 71,
+    "ttb": {
+      "hastily": 1.9,
+      "normally": 4.1,
+      "completely": 7.4,
+      "samples": 48
+    }
+  },
+  {
+    "id": "mirror-s-edge",
+    "title": "Mirror's Edge",
+    "status": "toplay",
+    "year": 2008,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Mirror's Edge is a first-person action-adventure game focused on parkour and free-running. Set in a heavily surveilled city, players control Faith, a courier who traverses rooftops using wall-runs, jumps, and slides to deliver sensitive information. The gameplay emphasizes momentum and fluid movement over combat, with a focus on finding the fastest path through urban environments.",
+    "date": "2026-09-17",
+    "cover": "covers/mirror-s-edge.jpg",
+    "igdbId": 1051,
+    "ttb": {
+      "hastily": 2.3,
+      "normally": 5.9,
+      "completely": 10.8,
+      "samples": 13
+    }
+  },
+  {
+    "id": "half-life-2",
+    "title": "Half-Life 2",
+    "status": "toplay",
+    "year": 2004,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XBOX",
+      "PS3",
+      "Linux",
+      "Android",
+      "PC",
+      "Mac",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "1998. HALF-LIFE sends a shock through the game industry with its combination of pounding action and continuous, immersive storytelling.\n\nNOW. By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around them, from the physical environment to the behaviors even the emotions of both friends and enemies.",
+    "date": "2026-09-17",
+    "cover": "covers/half-life-2.jpg",
+    "igdbId": 233,
+    "ttb": {
+      "hastily": 8.8,
+      "normally": 13.5,
+      "completely": 20.4,
+      "samples": 25
+    }
+  },
+  {
+    "id": "street-fighter-x-tekken",
+    "title": "Street Fighter X Tekken",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Fighting",
+      "Arcade"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Vita",
+      "X360"
+    ],
+    "score": 8.0,
+    "synopsis": "The long awaited dream match-up between the two titans of fighting is here!",
+    "date": "2026-09-17",
+    "cover": "covers/street-fighter-x-tekken.jpg",
+    "igdbId": 1065,
+    "ttb": {
+      "hastily": 100.0,
+      "normally": 100.0,
+      "completely": 100.0,
+      "samples": 1
+    }
+  },
+  {
+    "id": "dishonored",
+    "title": "Dishonored",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Puzzle",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "score": 8.5,
+    "synopsis": "Dishonored is an immersive first-person action game that casts you as a supernatural assassin driven by revenge. With Dishonored’s flexible combat system, creatively eliminate your targets as you combine the supernatural abilities, weapons and unusual gadgets at your disposal. Pursue your enemies under the cover of darkness or ruthlessly attack them head on with weapons drawn. The outcome of each mission plays out based on the choices you make.",
+    "date": "2026-09-17",
+    "cover": "covers/dishonored.jpg",
+    "igdbId": 533,
+    "ttb": {
+      "hastily": 9.0,
+      "normally": 16.1,
+      "completely": 49.8,
+      "samples": 17
+    }
+  },
+  {
+    "id": "superhot",
+    "title": "SuperHot",
+    "status": "toplay",
+    "year": 2016,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Tactical",
+      "Indie"
+    ],
+    "platforms": [
+      "Stadia",
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Superhot is an independent first-person shooter built around a single core mechanic: time only moves when the player moves. Without health regeneration or ammo drops, players must navigate through enemies using improvised tactics, grabbing weapons from fallen opponents, and carefully planning movements through slow-motion bullet trajectories. The game features a minimalist visual style using only white, black, and red to highlight interactive elements and threats. It originated from a 2013 game jam prototype that was later expanded through a successful Kickstarter campaign. Modes include a story campaign, endless survival, and challenge variations with specific restrictions.",
+    "date": "2026-09-17",
+    "cover": "covers/superhot.jpg",
+    "igdbId": 7205,
+    "ttb": {
+      "hastily": 3.1,
+      "normally": 4.8,
+      "completely": 1.3,
+      "samples": 7
+    }
+  },
+  {
+    "id": "tekken-8",
+    "title": "Tekken 8",
+    "status": "played",
+    "year": 2024,
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PC",
+      "PS5"
+    ],
+    "score": 8.6,
+    "synopsis": "Tekken 8 is a 3D fighting game and the eighth main installment in the Tekken series, notable for being the first entry to debut on home consoles rather than in arcades. Built on Unreal Engine 5, the game introduces the \"Heat\" system, which rewards aggressive play by granting enhanced moves and chip damage while in an activated state, and replaces the prior \"Screw\" mechanic with \"Tornado\" hits. The game features crossplay across PlayStation 5, Windows, and Xbox Series X/S. Additional modes include Arcade Quest, an online lobby with customizable avatars and tournament play, and a cinematic story mode. It is the final Tekken game involving longtime series director Katsuhiro Harada before his departure from Bandai Namco.",
+    "date": "2026-09-17",
+    "cover": "covers/tekken-8.jpg",
+    "igdbId": 217590,
+    "ttb": {
+      "hastily": 7.0,
+      "normally": null,
+      "completely": 25.0,
+      "samples": 2
+    }
+  },
+  {
+    "id": "tekken-7",
+    "title": "Tekken 7",
+    "status": "played",
+    "year": 2017,
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS4",
+      "PSVR",
+      "PC",
+      "XONE"
+    ],
+    "score": 8.5,
+    "synopsis": "Experience the epic conclusion of the Mishima clan and unravel the reasons behind each step of their ceaseless fight. Powered by Unreal Engine 4, Tekken 7 features stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals alike through innovative fight mechanics.",
+    "date": "2026-09-17",
+    "cover": "covers/tekken-7.jpg",
+    "igdbId": 7498,
+    "ttb": {
+      "hastily": null,
+      "normally": null,
+      "completely": 9.0,
+      "samples": 1
+    }
+  },
+  {
+    "id": "tekken-tag-tournament-2",
+    "title": "Tekken Tag Tournament 2",
+    "status": "played",
+    "year": 2012,
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Arcade",
+      "PS3",
+      "X360"
+    ],
+    "score": 8.4,
+    "synopsis": "The console release added new characters and stages.",
+    "date": "2026-09-17",
+    "cover": "covers/tekken-tag-tournament-2.jpg",
+    "igdbId": 1238,
+    "ttb": {
+      "hastily": 27.0,
+      "normally": 48.0,
+      "completely": 18.0,
+      "samples": 2
+    }
   }
 ];
