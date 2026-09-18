@@ -479,7 +479,7 @@
       "Mac",
       "X360"
     ],
-    "score": 8.0,
+    "score": 8.1,
     "synopsis": "Max Payne 3 is a third-person shooter in which the player assumes the role of its titular character, Max Payne. A new feature to the series, introduced in Max Payne 3, is the cover system, which allows players to gain a tactical advantage, and avoid taking damage from enemies. To progress through the linear story, players take on enemies throughout levels. The game features interactive cutscenes which transition seamlessly into continuing gameplay; there are no loading screens across gameplay and cutscenes.",
     "date": "2026-08-11",
     "cover": "covers/max-payne-3.jpg",
@@ -563,27 +563,6 @@
       "completely": 40.7,
       "samples": 19
     }
-  },
-  {
-    "id": "indigo-prophecy",
-    "title": "Indigo Prophecy",
-    "status": "toplay",
-    "year": 2005,
-    "genres": [
-      "Adventure"
-    ],
-    "platforms": [
-      "XBOX",
-      "PS4",
-      "PC",
-      "PS2"
-    ],
-    "score": null,
-    "synopsis": "Indigo Prophecy is an action-adventure game that involves the player in making decisions to alter the narrative. The name change in North America was made to avoid confusion with Michael Moore's Fahrenheit 9/11 documentary film, which was released in 2004. Indigo Prophecy introduced elements like ethical ambiguity, romance, the inability to perish, and interactive storytelling that would endure in Quantic Dream's later games.",
-    "date": "2026-08-11",
-    "cover": "covers/indigo-prophecy.jpg",
-    "igdbId": 1928,
-    "ttb": null
   },
   {
     "id": "resident-evil-7-biohazard",
@@ -1208,7 +1187,7 @@
       "XONE",
       "Switch"
     ],
-    "score": 8.9,
+    "score": 8.0,
     "synopsis": "Banging beats and mad style, Lethal League Blaze is the most intense ball game you can play online with up to 4 players.",
     "date": "2026-09-07",
     "cover": "covers/lethal-league-blaze-2.jpg",
@@ -2180,7 +2159,7 @@
       "Vita",
       "X360"
     ],
-    "score": 8.0,
+    "score": 7.7,
     "synopsis": "The long awaited dream match-up between the two titans of fighting is here!",
     "date": "2026-09-17",
     "cover": "covers/street-fighter-x-tekken.jpg",
@@ -2264,7 +2243,7 @@
       "PC",
       "PS5"
     ],
-    "score": 8.6,
+    "score": 8.5,
     "synopsis": "Tekken 8 is a 3D fighting game and the eighth main installment in the Tekken series, notable for being the first entry to debut on home consoles rather than in arcades. Built on Unreal Engine 5, the game introduces the \"Heat\" system, which rewards aggressive play by granting enhanced moves and chip damage while in an activated state, and replaces the prior \"Screw\" mechanic with \"Tornado\" hits. The game features crossplay across PlayStation 5, Windows, and Xbox Series X/S. Additional modes include Arcade Quest, an online lobby with customizable avatars and tournament play, and a cinematic story mode. It is the final Tekken game involving longtime series director Katsuhiro Harada before his departure from Bandai Namco.",
     "date": "2026-09-17",
     "cover": "covers/tekken-8.jpg",
@@ -2303,28 +2282,1423 @@
     }
   },
   {
-    "id": "tekken-tag-tournament-2",
-    "title": "Tekken Tag Tournament 2",
+    "id": "tekken-tag-tournament",
+    "title": "Tekken Tag Tournament",
     "status": "played",
-    "year": 2012,
+    "year": 1999,
     "genres": [
       "Fighting"
     ],
     "platforms": [
-      "Arcade",
+      "Arcade"
+    ],
+    "score": 8.4,
+    "synopsis": "Tekken Tag Tournament is an update of Tekken 3 and is the fourth installment in the popular Tekken fighting game series. It is not canonical to the Tekken storyline however.",
+    "date": "2026-09-18",
+    "cover": "covers/tekken-tag-tournament.jpg",
+    "igdbId": 1249,
+    "ttb": null
+  },
+  {
+    "id": "wii-sports",
+    "title": "Wii Sports",
+    "status": "played",
+    "year": 2006,
+    "genres": [
+      "Simulator",
+      "Sport"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "score": 8.2,
+    "synopsis": "Wii Sports is a sports simulation game built around the motion controls of the Wii Remote. It collects five sports, tennis, baseball, bowling, golf, and boxing, played by moving the controller to mimic real actions such as swinging a racket or rolling a ball. The rules are simplified for accessibility, and players compete against the computer or each other, using customizable avatars. Additional training and fitness modes let players practice individual skills and track their progress over time.",
+    "date": "2026-09-18",
+    "cover": "covers/wii-sports.jpg",
+    "igdbId": 2181,
+    "ttb": {
+      "hastily": 9.0,
+      "normally": 13.0,
+      "completely": 22.0,
+      "samples": 1
+    }
+  },
+  {
+    "id": "wii-sports-resort",
+    "title": "Wii Sports Resort",
+    "status": "played",
+    "year": 2009,
+    "genres": [
+      "Racing",
+      "Simulator",
+      "Sport"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "score": 8.6,
+    "synopsis": "Set off on a journey to a tropical island where an array of fun activities await. In Wii Sports Resort, the sequel to the engaging Wii Sports, you'll discover a wide range of new sports and activities you can play anytime. Go head-to-head with your friends and family in the ultimate sports showdown set in a tropical paradise.",
+    "date": "2026-09-18",
+    "cover": "covers/wii-sports-resort.jpg",
+    "igdbId": 2182,
+    "ttb": null
+  },
+  {
+    "id": "mario-kart-wii",
+    "title": "Mario Kart Wii",
+    "status": "played",
+    "year": 2008,
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "score": 9.2,
+    "synopsis": "Mario Kart Wii is a multiplayer-oriented racing game for the Wii, and the sixth main installment in the Mario Kart series. Mario Kart Wii retains the traditional item-based weaponry familiar with the franchise, where players can select a Mario franchise driver and themed vehicles. As with most racing games, the overarching goal is to place first among other competitors, through the usage of such items and taking the fastest routes to secure the leads. Several new key elements introduced to Mario Kart Wii include increasing the number of racers to 12 racers from 8 racers from previous entries in the series, as well as introducing a new type of vehicle to the franchise: bikes. The game takes advantage of features unique to the Wii, most notably its motion control capabilities. A Wii Wheel is included in most Mario Kart Wii packages, though the game is still compatible with other controllers. Game modes are also present such as the traditional Grand Prix, Versus, Battle, and Time Trial modes.",
+    "date": "2026-09-18",
+    "cover": "covers/mario-kart-wii.jpg",
+    "igdbId": 2183,
+    "ttb": null
+  },
+  {
+    "id": "cuphead",
+    "title": "Cuphead",
+    "status": "played",
+    "year": 2017,
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": 8.2,
+    "synopsis": "Cuphead is a run-and-gun action game focused primarily on boss battles. Its visual style is modeled after 1930s cartoons, using traditional hand-drawn cel animation, watercolor backgrounds, and original jazz recordings. Players control Cuphead or Mugman in single-player or local co-op, traversing themed worlds, acquiring new weapons, and unlocking super moves. The game includes both boss encounters and side-scrolling platforming stages.",
+    "date": "2026-09-18",
+    "cover": "covers/cuphead.jpg",
+    "igdbId": 9061,
+    "ttb": {
+      "hastily": 8.0,
+      "normally": 17.6,
+      "completely": 21.0,
+      "samples": 6
+    }
+  },
+  {
+    "id": "ea-sports-ufc-4",
+    "title": "EA Sports UFC 4",
+    "status": "played",
+    "year": 2020,
+    "genres": [
+      "Fighting",
+      "Sport"
+    ],
+    "platforms": [
+      "PS4",
+      "XONE"
+    ],
+    "score": 6.5,
+    "synopsis": "In EA SPORTS UFC 4 the fighter you become is shaped by your fight style, your achievements, and your personality. Develop and customize your character through a unified progression system across all modes. Go from unknown amateur to UFC superstar in the new Career Mode, experience the origins of combat sports in two all-new environments; The Kumite and The Backyard, or challenge the world in new Blitz Battles or Online World Championships to become the undisputed champ. In gameplay, fluid clinch-to-strike combinations offer more responsive and authentic stand-up gameplay, while overhauled takedown and ground mechanics deliver more control in those key phases of the fight. No matter how, or where, you play EA SPORTS UFC 4 puts ‘you’ at the center of every fight.",
+    "date": "2026-09-18",
+    "cover": "covers/ea-sports-ufc-4.jpg",
+    "igdbId": 136560,
+    "ttb": null
+  },
+  {
+    "id": "fifa-soccer-10",
+    "title": "FIFA Soccer 10",
+    "status": "played",
+    "year": 2009,
+    "genres": [
+      "Sport"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "score": 8.4,
+    "synopsis": "Wii port of FIFA Soccer 10.",
+    "date": "2026-09-18",
+    "cover": "covers/fifa-soccer-10.jpg",
+    "igdbId": 240332,
+    "ttb": null
+  },
+  {
+    "id": "new-super-mario-bros-wii",
+    "title": "New Super Mario Bros. Wii",
+    "status": "played",
+    "year": 2009,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "Wii",
+      "WiiU"
+    ],
+    "score": 9.0,
+    "synopsis": "New Super Mario Bros. Wii is a side-scrolling 2.5D Mario platformer for the Wii and the tenth game in the Super Mario series. In addition to the single-player experience, New Super Mario Bros. Wii also features a multiplayer mode for up to four players. This is the first Super Mario game to feature co-op and vs. modes at the same time since Mario Bros. It features more items, new levels, and more enemies than the DS predecessor. The game introduces two new power-ups, the Propeller Mushroom and the Penguin Suit, which turn characters into their propeller and penguin forms, respectively.",
+    "date": "2026-09-18",
+    "cover": "covers/new-super-mario-bros-wii.jpg",
+    "igdbId": 2178,
+    "ttb": {
+      "hastily": 2.0,
+      "normally": null,
+      "completely": null,
+      "samples": 1
+    }
+  },
+  {
+    "id": "marvel-ultimate-alliance-2",
+    "title": "Marvel: Ultimate Alliance 2",
+    "status": "played",
+    "year": 2009,
+    "genres": [
+      "RPG",
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Wii",
+      "PC",
+      "PSP",
+      "X360",
+      "XONE",
+      "PS2"
+    ],
+    "score": 6.9,
+    "synopsis": "Marvel: Ultimate Alliance 2 is the second game in the Marvel: Ultimate Alliance series, and is loosely based on the events of the Civil War comic book story line. It brings with it a larger roster of heroes and villains to play as, as well as more ways to utilize your team in battle.",
+    "date": "2026-09-18",
+    "cover": "covers/marvel-ultimate-alliance-2.jpg",
+    "igdbId": 568,
+    "ttb": {
+      "hastily": 10.0,
+      "normally": 12.0,
+      "completely": 14.0,
+      "samples": 1
+    }
+  },
+  {
+    "id": "resident-evil-4-2023",
+    "title": "Resident Evil 4",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "PC",
+      "iOS",
+      "PS5",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "Resident Evil 4 is a remake of the 2005 original Resident Evil 4 reimagined for 2023 to bring state-of-the-art survival horror. Resident Evil 4 preserves the essence of the original game, while introducing modernized gameplay, a reimagined storyline,\nand vividly detailed graphics to make this the latest survival horror game where life and death, terror and catharsis intersect.",
+    "date": "2026-09-18",
+    "cover": "covers/resident-evil-4-2023.jpg",
+    "igdbId": 132181,
+    "ttb": {
+      "hastily": 13.0,
+      "normally": 19.8,
+      "completely": 43.2,
+      "samples": 16
+    }
+  },
+  {
+    "id": "resident-evil-2",
+    "title": "Resident Evil 2",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "PC",
+      "iOS",
+      "PS5",
+      "Mac",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Resident Evil 2 is a remake of 1998's Resident Evil 2. The game was not developed with the intent of improving the original, but rather a reimagining of the original story with redesigned maps, characters and story elements. Gameplay mechanics are more similar to Resident Evil 7: Biohazard though with the use of an over-the-shoulder camera.",
+    "date": "2026-09-18",
+    "cover": "covers/resident-evil-2.jpg",
+    "igdbId": 19686,
+    "ttb": {
+      "hastily": 6.5,
+      "normally": 12.9,
+      "completely": 30.0,
+      "samples": 19
+    }
+  },
+  {
+    "id": "resident-evil",
+    "title": "Resident Evil",
+    "status": "toplay",
+    "year": 2014,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "X360",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Hailed by many as a masterpiece, this remake of the first entry in the long-running Resident Evil series is now playable in HD. Experience true terror in this genre-launching survival horror classic.\n\nThe year is 1998. The Bravo Team of S.T.A.R.S., an elite special forces squad, has gone radio silent, and its Alpha Team has been dispatched to the forest on the outskirts of Raccoon City to investigate this mysterious disappearance. Attacked by bizarre and vicious dogs, alpha team members Chris and Jill manage to escape to a mysterious mansion in the middle of the forest. The horrors they encounter there are far greater than anyone might have foreseen...",
+    "date": "2026-09-18",
+    "cover": "covers/resident-evil.jpg",
+    "igdbId": 8254,
+    "ttb": {
+      "hastily": 11.0,
+      "normally": 17.4,
+      "completely": 32.1,
+      "samples": 7
+    }
+  },
+  {
+    "id": "grand-theft-auto-iv-complete-edition",
+    "title": "Grand Theft Auto IV: Complete Edition",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "This standalone retail title spans three distinct stories, interwoven to create one of the most unique and engaging single-player experiences of this generation. This definitive Grand Theft Auto bundle boasts hundreds of hours of single-player gameplay; a full suite of open-world multiplayer game types limited only by players’ creativity; dozens of eclectic radio stations with hours of music and original dialogue.",
+    "date": "2026-09-18",
+    "cover": "covers/grand-theft-auto-iv-complete-edition.jpg",
+    "igdbId": 27912,
+    "ttb": {
+      "hastily": null,
+      "normally": 69.0,
+      "completely": null,
+      "samples": 2
+    }
+  },
+  {
+    "id": "donkey-kong-country-returns",
+    "title": "Donkey Kong Country Returns",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "Wii",
+      "WiiU"
+    ],
+    "score": null,
+    "synopsis": "Under the influence of a group of evil Tikis, the animals of Donkey Kong Island have raided Donkey Kong's banana hoard and stolen his stash of bananas - and being an ape of large appetites he understandably wants them back. Good thing that you are along for the ride. With Donkey Kong Country Returns, Retro Studios brings Donkey Kong back to a banana and platforming hungry public in a new side-scrolling adventure with familiar characters and new levels that reignite the passion players had for the Super NES original and all things Donkey Kong.",
+    "date": "2026-09-18",
+    "cover": "covers/donkey-kong-country-returns.jpg",
+    "igdbId": 1100,
+    "ttb": {
+      "hastily": 10.5,
+      "normally": 25.0,
+      "completely": null,
+      "samples": 2
+    }
+  },
+  {
+    "id": "no-more-heroes-2-desperate-struggle",
+    "title": "No More Heroes 2: Desperate Struggle",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "Wii",
+      "PC",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "No More Heroes 2: Desperate Struggle continues the tale of punk anti-hero Travis Touchdown, the Japanese anime Otaku, and pro wrestling-obsessed assassin. Travis finds himself at the bottom of the UAA (United Assassins Association) rankings and must wage war to become the No. 1 assassin once again. The follow-up to the popular No More Heroes will offer fans infectious, fun gameplay that allows you to wield not just one, but two swords and face multiple bosses simultaneously in bigger-than-ever boss battles.",
+    "date": "2026-09-18",
+    "cover": "covers/no-more-heroes-2-desperate-struggle.jpg",
+    "igdbId": 2273,
+    "ttb": null
+  },
+  {
+    "id": "goldeneye-007",
+    "title": "GoldenEye 007",
+    "status": "played",
+    "year": 2010,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "score": 7.7,
+    "synopsis": "The GoldenEye story comes to life once again with an updated single player storyline featuring Daniel Craig as Bond and written by Bruce Feirstein, the screenwriter for the original movie. Surprise enemies covertly or engage in a full on firefight and use Bond's latest gadget to uncover intel in augmented reality as you relive all the classic GoldenEye movie moments. Infiltrate the dam and destroy the facility; chase Ourumov in the tank through the streets of St. Petersburgh; and investigate the secret jungle base.\n\nBRINGING MULTIPLAYER BACK TO ITS ROOTS. – Splitscreen returns to the first person shooter in GoldenEye – 4 players in the same room, on the same screen. The extensive variety of characters, game modes and weapons lets you customize the perfect experience from over 500 split screen game combinations\n\n40 unique characters: Play as your favorite Bond characters and villains, including 8 classic characters – Oddjob, Jaws, Scaramanga, Baron Samedi, Dr. No, Rosa Klebb, Red Grant, and Blofeld\n\n17 special game modifiers: Mix and match to create a unique gaming experience every time you play. Put a twist on standard game types with special modes like Paintball, Melee Only and You Only Live Twice\n\nA vast arsenal of weapons and gadgets: Eliminate adversaries with Bond's signature P99 and an assortment of automatic and sniper rifles, or ensure a surprise attack with proximity mines\n\nOnline multiplayer: GoldenEye also features online multiplayer for up to 8 players designed for seasoned FPS online gamers with unique modes and a robust XP system for unlockables and achievements",
+    "date": "2026-09-18",
+    "cover": "covers/goldeneye-007.jpg",
+    "igdbId": 1647,
+    "ttb": null
+  },
+  {
+    "id": "halo-3",
+    "title": "Halo 3",
+    "status": "toplay",
+    "year": 2007,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "X360",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Halo 3 is a shooter game where players primarily experience gameplay from a first-person perspective. Much of the gameplay takes place on foot, but also includes segments focused on vehicular combat. The balance of weapons and objects in the game was adjusted to better adhere to the \"Golden Triangle of Halo\": these are weapons, grenades, and melee attacks, which are available to a player in most situations. Players may dual-wield some weapons, forgoing the use of grenades and melee attacks in favor of the combined firepower of two weapons. Many weapons available in previous installments of the series return with minor cosmetic and power alterations. Unlike previous installments, the player's secondary weapon is visible on their player model, holstered or slung across the player's back.\nHalo 3 introduces \"support weapons\", which are cumbersome two-handed weapons that slow the player, but offer greatly increased firepower in return. In addition to weapons, the game contains a new class of gear called equipment; these items have various effects, ranging from defensive screens to shield regeneration and flares. Only one piece of equipment can be carried at a time. The game's vehicular component has been expanded with new drivable and AI-only vehicles.",
+    "date": "2026-09-18",
+    "cover": "covers/halo-3.jpg",
+    "igdbId": 987,
+    "ttb": {
+      "hastily": 7.7,
+      "normally": null,
+      "completely": null,
+      "samples": 2
+    }
+  },
+  {
+    "id": "halo-2",
+    "title": "Halo 2",
+    "status": "toplay",
+    "year": 2004,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XBOX",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Halo 2 is a first-person shooter developed by Bungie and the sequel to Halo: Combat Evolved. The campaign alternates between two playable characters: the human supersoldier Master Chief and the Covenant warrior known as the Arbiter. The game introduced online multiplayer via Xbox Live with an automated matchmaking system, dual-wielding of certain weapons, and vehicle hijacking. It supports both cooperative campaign and competitive multiplayer modes, and was the best-selling game on the original Xbox.",
+    "date": "2026-09-18",
+    "cover": "covers/halo-2.jpg",
+    "igdbId": 986,
+    "ttb": {
+      "hastily": 9.4,
+      "normally": 11.0,
+      "completely": 17.5,
+      "samples": 3
+    }
+  },
+  {
+    "id": "bayonetta",
+    "title": "Bayonetta",
+    "status": "toplay",
+    "year": 2009,
+    "genres": [
+      "Shooter",
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "A member of an ancient witch clan and possessing powers beyond the comprehension of mere mortals, Bayonetta faces-off against countless angelic enemies, many reaching epic proportions, in a game of 100% pure, unadulterated all-out action. Outlandish finishing moves are performed with balletic grace as Bayonetta flows from one fight to another. With magnificent over-the-top action taking place in stages that are a veritable theme park of exciting attractions, Bayonetta pushes the limits of the action genre, bringing to life its fast-paced, dynamic climax combat.",
+    "date": "2026-09-18",
+    "cover": "covers/bayonetta.jpg",
+    "igdbId": 2136,
+    "ttb": {
+      "hastily": 10.0,
+      "normally": 14.9,
+      "completely": 23.0,
+      "samples": 5
+    }
+  },
+  {
+    "id": "vanquish",
+    "title": "Vanquish",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "X360",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "You are Sam Gideon – an American soldier armed with state-of-the-art combat armor known as an Augmented Reaction Suit. Battle for the fate of your nation in a shooting action game like none ever seen!\n\nIn addition to an arsenal of firearms and considerable hand-to-hand combat skills, Sam has a few tricks at his disposal thanks to the power of ARS: Tricks like AR mode, which shows him surrounding enemies in slow motion, and Boost, which lets him slide around the battlefield at breakneck speed. Mastering these abilities and more is critical to surviving the no-holds-barred action!\n\nVanquish combines precise shooting and fast-paced combat action in dazzling new ways. From superpowered battle armor to space colonies; space battlecruisers to giant, autonomous transforming battle robots – Vanquish brings you a sci-fi future loaded with wonder, rooted in the geopolitical and technological realities of the present, to create a compelling, believable setting that will capture your heart and mind.",
+    "date": "2026-09-18",
+    "cover": "covers/vanquish.jpg",
+    "igdbId": 3218,
+    "ttb": {
+      "hastily": 5.0,
+      "normally": 6.7,
+      "completely": 15.0,
+      "samples": 4
+    }
+  },
+  {
+    "id": "super-meat-boy",
+    "title": "Super Meat Boy",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "Wii",
+      "PC",
+      "Mac",
+      "WiiU",
+      "Vita",
+      "X360",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Super Meat Boy is a platform game in which players control Meat Boy, a small, dark red, cube-shaped character who must rescue his girlfriend Bandage Girl from the scientist Dr. Fetus. The game is divided into chapters containing over 300 levels, each requiring players to reach the end while avoiding saw blades, crumbling blocks, and other hazards. Players can jump, run on platforms, and slide down walls. Deaths are instant and levels restart immediately with unlimited attempts. Completing levels quickly unlocks harder alternate \"dark world\" versions, and hidden warp zones contain bonus stages. Additional playable characters with unique abilities can be unlocked through collectibles.",
+    "date": "2026-09-18",
+    "cover": "covers/super-meat-boy.jpg",
+    "igdbId": 885,
+    "ttb": {
+      "hastily": 12.0,
+      "normally": null,
+      "completely": 51.0,
+      "samples": 5
+    }
+  },
+  {
+    "id": "limbo",
+    "title": "Limbo",
+    "status": "toplay",
+    "year": 2010,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Linux",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac",
+      "Vita",
+      "X360",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Limbo is a black and white puzzle-platforming adventure. Players take the role of a young boy traveling through an eerie and treacherous world in an attempt to discover the fate of his sister.",
+    "date": "2026-09-18",
+    "cover": "covers/limbo.jpg",
+    "igdbId": 1331,
+    "ttb": {
+      "hastily": 2.4,
+      "normally": 3.6,
+      "completely": 6.3,
+      "samples": 23
+    }
+  },
+  {
+    "id": "rayman-legends",
+    "title": "Rayman Legends",
+    "status": "toplay",
+    "year": 2013,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "Stadia",
+      "PS3",
+      "PS4",
+      "PC",
+      "X360",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Rayman Legends is a side-scrolling platform game supporting up to four simultaneous players. Players control Rayman, Globox, Teensies, or the new character Barbara as they run, jump, and attack through over one hundred twenty levels. An assist character named Murfy can interact with the environment by cutting ropes, activating mechanisms, and grabbing enemies. The game features rhythm-based levels set to music, daily and weekly online challenge stages with leaderboards, remastered levels from Rayman Origins, and a local multiplayer football minigame called Kung Foot.",
+    "date": "2026-09-18",
+    "cover": "covers/rayman-legends.jpg",
+    "igdbId": 1968,
+    "ttb": {
+      "hastily": 19.0,
+      "normally": 13.7,
+      "completely": 72.5,
+      "samples": 4
+    }
+  },
+  {
+    "id": "fez",
+    "title": "Fez",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Linux",
+      "PC",
+      "iOS",
+      "Mac",
+      "Vita",
+      "X360",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way.",
+    "date": "2026-09-18",
+    "cover": "covers/fez.jpg",
+    "igdbId": 1991,
+    "ttb": {
+      "hastily": null,
+      "normally": 7.3,
+      "completely": 12.7,
+      "samples": 5
+    }
+  },
+  {
+    "id": "l-a-noire",
+    "title": "L.A. Noire",
+    "status": "toplay",
+    "year": 2011,
+    "genres": [
+      "Strategy",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Steam VR",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "L.A. Noire is a neo-noir detective action-adventure video game developed by Team Bondi and published by Rockstar Games. It was initially released for the PlayStation 3 and Xbox 360 platforms on 17 May 2011; a Microsoft Windows port was later released on 8 November 2011.\n\nL.A. Noire is set in Los Angeles in 1947 and challenges the player, controlling a Los Angeles Police Department (LAPD) officer, to solve a range of cases across five divisions. Players must investigate crime scenes for clues, follow up leads, and interrogate suspects, and the player's success at these activities will impact how much of each case's story is revealed.\n\nThe game draws heavily from both the plot and aesthetic elements of film noir—stylistic films made popular in the 1940s and 1950s that share similar visual styles and themes, including crime and moral ambiguity—along with drawing inspiration from real-life crimes for its in-game cases, based upon what was reported by the Los Angeles media in 1947.\n\nThe game uses a distinctive colour palette, but in homage to film noir it includes the option to play the game in black and white. Various plot elements reference the major themes of detective and mobster stories such as The Naked City, Chinatown, The Untouchables, The Black Dahlia, and L.A. Confidential.",
+    "date": "2026-09-18",
+    "cover": "covers/l-a-noire.jpg",
+    "igdbId": 109,
+    "ttb": {
+      "hastily": 15.0,
+      "normally": 28.7,
+      "completely": 42.1,
+      "samples": 14
+    }
+  },
+  {
+    "id": "ufc-undisputed-3",
+    "title": "UFC Undisputed 3",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Fighting",
+      "Sport"
+    ],
+    "platforms": [
       "PS3",
       "X360"
     ],
-    "score": 8.4,
-    "synopsis": "The console release added new characters and stages.",
-    "date": "2026-09-17",
-    "cover": "covers/tekken-tag-tournament-2.jpg",
-    "igdbId": 1238,
+    "score": null,
+    "synopsis": "The critically acclaimed and best-selling MMA videogame franchise returns to take players inside the Octagon with UFC Undisputed 3, delivering intense UFC action focused on brutal toe-to-toe combat, impressive visual presentation and increased accessibility.",
+    "date": "2026-09-18",
+    "cover": "covers/ufc-undisputed-3.jpg",
+    "igdbId": 7229,
+    "ttb": null
+  },
+  {
+    "id": "saints-row-iv",
+    "title": "Saints Row IV",
+    "status": "played",
+    "year": 2013,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Linux",
+      "PC",
+      "X360",
+      "XONE"
+    ],
+    "score": 8.0,
+    "synopsis": "Saints Row IV is an open-world action-adventure game with third-person shooter combat and a heavy science fiction and comedy bent. It is the fourth main entry in the Saints Row series and the last of the original storyline. Players freely explore a simulated version of the city of Steelport, taking on story missions and side activities, and gain superpowers such as super speed, high jumps, and elemental attacks that reshape how they move and fight. The player character is highly customizable, and a two-player cooperative mode is supported.",
+    "date": "2026-09-18",
+    "cover": "covers/saints-row-iv.jpg",
+    "igdbId": 1981,
     "ttb": {
-      "hastily": 27.0,
-      "normally": 48.0,
-      "completely": 18.0,
+      "hastily": null,
+      "normally": 28.9,
+      "completely": 39.0,
+      "samples": 4
+    }
+  },
+  {
+    "id": "psychonauts",
+    "title": "Psychonauts",
+    "status": "toplay",
+    "year": 2005,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "XBOX",
+      "PS3",
+      "PS4",
+      "Linux",
+      "PC",
+      "Mac",
+      "X360",
+      "XONE",
+      "PS2"
+    ],
+    "score": null,
+    "synopsis": "Psychonauts is a platform-adventure game developed by Double Fine Productions and released in 2005. It follows Razputin “Raz” Aquato, a young psychic who runs away from the circus to attend a summer camp for aspiring psychonauts. Players explore imaginative levels set inside the minds of different characters, each reflecting their mental states. Gameplay combines platforming, combat, and the use of psychic abilities such as telekinesis and levitation. The game was praised for its creativity, humor, and distinctive art style.",
+    "date": "2026-09-18",
+    "cover": "covers/psychonauts.jpg",
+    "igdbId": 1339,
+    "ttb": {
+      "hastily": 11.0,
+      "normally": 13.6,
+      "completely": 26.3,
+      "samples": 8
+    }
+  },
+  {
+    "id": "psychonauts-2-motherlobe-edition",
+    "title": "Psychonauts 2: Motherlobe Edition",
+    "status": "toplay",
+    "year": 2022,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Psychonauts 2: Motherlobe Edition is a physical release of the 2021 platform-adventure game developed by Double Fine Productions. It includes the full game along with a lenticular o-sleeve, a reversible poster, and a set of six art cards. The edition also features digital download codes for behind-the-scenes materials such as concept art and developer commentary. Gameplay remains unchanged, combining platforming, exploration, and psychic abilities across story-driven levels.",
+    "date": "2026-09-18",
+    "cover": "covers/psychonauts-2-motherlobe-edition.jpg",
+    "igdbId": 207394,
+    "ttb": null
+  },
+  {
+    "id": "beyond-good-evil",
+    "title": "Beyond Good & Evil",
+    "status": "toplay",
+    "year": 2003,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "XBOX",
+      "NGC",
+      "PC",
+      "X360",
+      "PS2"
+    ],
+    "score": null,
+    "synopsis": "Beyond Good & Evil is an action-adventure game with elements of puzzle-solving and stealth-based games. The player controls the protagonist, Jade, from a third-person perspective. Jade can run, move stealthily, jump over obstacles and pits, climb ladders, push or bash doors and objects, and flatten herself against walls. As Jade, the player investigates a number of installations in search of the truth about a war with an alien threat.",
+    "date": "2026-09-18",
+    "cover": "covers/beyond-good-evil.jpg",
+    "igdbId": 1341,
+    "ttb": {
+      "hastily": 8.6,
+      "normally": 11.7,
+      "completely": 10.0,
+      "samples": 9
+    }
+  },
+  {
+    "id": "grim-fandango",
+    "title": "Grim Fandango",
+    "status": "toplay",
+    "year": 1998,
+    "genres": [
+      "Point & Click",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "score": null,
+    "synopsis": "A neo-noir adventure to the Land of the Dead.\nSomething's rotten in the land of the dead, and you're being played for a sucker. Meet Manny Calavera, travel agent at the Department of Death. He sells luxury packages to souls on their four-year journey to eternal rest. But there's trouble in paradise. Help Manny untangle himself from a conspiracy that threatens his very salvation.",
+    "date": "2026-09-18",
+    "cover": "covers/grim-fandango.jpg",
+    "igdbId": 181,
+    "ttb": null
+  },
+  {
+    "id": "sektori",
+    "title": "Sektori",
+    "status": "toplay",
+    "year": 2025,
+    "genres": [
+      "Shooter",
+      "Indie",
+      "Arcade"
+    ],
+    "platforms": [
+      "Series X|S",
+      "Switch 2",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "Sektori is an intense, fast paced twin-stick shooter where every run is unique. Choose your upgrades carefully and create powerful builds to take on numerous enemies and epic bosses on a constantly evolving battlefield.",
+    "date": "2026-09-18",
+    "cover": "covers/sektori.jpg",
+    "igdbId": 217363,
+    "ttb": null
+  },
+  {
+    "id": "tom-clancy-s-splinter-cell-chaos-theory",
+    "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "status": "toplay",
+    "year": 2005,
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
+    "platforms": [
+      "XBOX",
+      "NGC",
+      "PC",
+      "PS2"
+    ],
+    "score": null,
+    "synopsis": "You are Sam Fisher, the NSA's most elite black-ops agent. To achieve your mission you will kill from close range, attack with your combat knife, shoot with the prototype Land Warrior rifle, and use radical suppression techniques such as the inverted neck break. Also take on cooperative multiplayer infiltration missions, where teamwork is the ultimate weapon.",
+    "date": "2026-09-18",
+    "cover": "covers/tom-clancy-s-splinter-cell-chaos-theory.jpg",
+    "igdbId": 911,
+    "ttb": {
+      "hastily": 15.0,
+      "normally": 16.7,
+      "completely": null,
+      "samples": 3
+    }
+  },
+  {
+    "id": "system-shock-2-25th-anniversary-remaster",
+    "title": "System Shock 2: 25th Anniversary Remaster",
+    "status": "toplay",
+    "year": 2025,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "The original System Shock 2 is a genre-defining experience that established innovative gameplay mechanics that are a staple of the FPS and RPG genre today. Delve through the corridors of the derelict ship Von Braun and immerse yourself in the story rich atmosphere and environments. Explore deck by deck and unravel the horrifying fate of the Von Braun and her crew.\n\nSystem Shock 2: 25th Anniversary modernizes the 1999 sci-fi horror classic using Nightdive Studios’ proprietary KEX Engine for a definitive version of the game featuring Enhanced Characters, Weapon Models and Animations, Up to 144FPS performance with ultra-widescreen support, Optimized Controller support, 50 Achievements to unlock, Additional Mod Support and Quality of Life Improvements.",
+    "date": "2026-09-18",
+    "cover": "covers/system-shock-2-25th-anniversary-remaster.jpg",
+    "igdbId": 143964,
+    "ttb": {
+      "hastily": null,
+      "normally": 15.0,
+      "completely": null,
+      "samples": 1
+    }
+  },
+  {
+    "id": "mark-of-the-ninja",
+    "title": "Mark of the Ninja",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Linux",
+      "PC",
+      "Mac",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Mark of the Ninja is a side-scrolling action stealth video game developed by Klei Entertainment and published by Microsoft Studios. It was announced on February 28, 2012 and later released for the Xbox 360 via Xbox Live Arcade on September 7, 2012. A Microsoft Windows version was released on October 16, 2012. It follows the story of a nameless ninja in the present day, and features a themed conflict between ancient ninja tradition and modern technology. Cutscenes for the game are rendered in Saturday morning cartoon animation style.",
+    "date": "2026-09-18",
+    "cover": "covers/mark-of-the-ninja.jpg",
+    "igdbId": 2129,
+    "ttb": {
+      "hastily": 7.5,
+      "normally": 9.5,
+      "completely": 19.8,
+      "samples": 9
+    }
+  },
+  {
+    "id": "animal-well",
+    "title": "Animal Well",
+    "status": "toplay",
+    "year": 2024,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "What lurks beneath the surface of this deceptively minimalistic adventure? In Animal Well there is more than what you see. Explore a dense interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter creatures both beautiful and unsettling, and try to survive what lurks in the dark.",
+    "date": "2026-09-18",
+    "cover": "covers/animal-well.jpg",
+    "igdbId": 191435,
+    "ttb": {
+      "hastily": 6.0,
+      "normally": 9.7,
+      "completely": 19.0,
+      "samples": 8
+    }
+  },
+  {
+    "id": "baldur-s-gate-iii",
+    "title": "Baldur's Gate III",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Strategy"
+    ],
+    "platforms": [
+      "Stadia",
+      "Series X|S",
+      "Linux",
+      "PC",
+      "PS5",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "An ancient evil has returned to Baldur's Gate, intent on devouring it from the inside out. The fate of Faerun lies in your hands. Alone, you may resist. But together, you can overcome.",
+    "date": "2026-09-18",
+    "cover": "covers/baldur-s-gate-iii.jpg",
+    "igdbId": 119171,
+    "ttb": {
+      "hastily": 128.2,
+      "normally": 132.1,
+      "completely": null,
+      "samples": 28
+    }
+  },
+  {
+    "id": "metal-gear-solid-3-snake-eater-master-collection-version",
+    "title": "Metal Gear Solid 3: Snake Eater - Master Collection Version",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Metal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series.\n\nThe game is set in a deep jungle environment.\nSnake must find his equipment and use various camouflage which allows the player to deceive the enemy's eyes and face paint that matches the surrounding environment, providing a unique stealth gameplay experience.\n\nThe game is also packed with new action elements which allow players to capture jungle animals for food and to regain stamina, and Close Quarters Combat (CQC), a combat system based on martial arts for fighting enemies at close range.",
+    "date": "2026-09-18",
+    "cover": "covers/metal-gear-solid-3-snake-eater-master-collection-version.jpg",
+    "igdbId": 383391,
+    "ttb": null
+  },
+  {
+    "id": "okami-hd-limited-edition",
+    "title": "Okami HD: Limited Edition",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "This edition includes the following PS4:\n- Game\n- Special DLC\n- Special Package\n- Special Wrapping Cloth (68x68 CM)\n- 2 x Special Poster (B5)",
+    "date": "2026-09-18",
+    "cover": "covers/okami-hd-limited-edition.jpg",
+    "igdbId": 136788,
+    "ttb": null
+  },
+  {
+    "id": "journey",
+    "title": "Journey",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "iOS"
+    ],
+    "score": null,
+    "synopsis": "A third-person adventure game in which the player, controlling a robed figure, makes a pilgrimage through a desert landscape to a rugged mountain with a beacon of light in the distance while uncovering the history of their people, rescuing and cooperating with friendly creatures, avoiding predatory ones and communicating with other travelers.",
+    "date": "2026-09-18",
+    "cover": "covers/journey.jpg",
+    "igdbId": 1352,
+    "ttb": {
+      "hastily": 2.0,
+      "normally": 2.8,
+      "completely": 6.1,
+      "samples": 13
+    }
+  },
+  {
+    "id": "clair-obscur-expedition-33",
+    "title": "Clair Obscur: Expedition 33",
+    "status": "toplay",
+    "year": 2025,
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "Lead the members of Expedition 33 on their quest to destroy the Paintress so that she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
+    "date": "2026-09-18",
+    "cover": "covers/clair-obscur-expedition-33.jpg",
+    "igdbId": 305152,
+    "ttb": {
+      "hastily": 29.6,
+      "normally": 41.1,
+      "completely": 78.6,
+      "samples": 43
+    }
+  },
+  {
+    "id": "bloodborne",
+    "title": "Bloodborne",
+    "status": "toplay",
+    "year": 2015,
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "score": null,
+    "synopsis": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt's many mysteries.",
+    "date": "2026-09-18",
+    "cover": "covers/bloodborne.jpg",
+    "igdbId": 7334,
+    "ttb": {
+      "hastily": 27.5,
+      "normally": 37.8,
+      "completely": 57.3,
+      "samples": 16
+    }
+  },
+  {
+    "id": "shadow-of-the-colossus",
+    "title": "Shadow of the Colossus",
+    "status": "toplay",
+    "year": 2018,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "score": null,
+    "synopsis": "Tales speak of an ancient land where creatures the size of mountains, roam the majestic landscape. Bound to the land, these creatures hold a key to a mystical power of revival - a power you must obtain to waken a loved one.\n\nShadow of the Colossus is a majestic journey through ancient lands to seek out and destroy gigantic mythical beasts. With your trusty horse at your side, explore the spacious lands and unearth each Colossi. Armed with your wits, a sword and a bow, use cunning and strategy to topple each behemoth.\n\nA remake of the critically-claimed game of the same title. Also from the minds that brought you The Last Guardian & ICO",
+    "date": "2026-09-18",
+    "cover": "covers/shadow-of-the-colossus.jpg",
+    "igdbId": 37094,
+    "ttb": {
+      "hastily": null,
+      "normally": 4.8,
+      "completely": 21.4,
       "samples": 2
+    }
+  },
+  {
+    "id": "disco-elysium",
+    "title": "Disco Elysium",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "Disco Elysium is a role-playing game developed and published by ZA/UM. It is set in the fictional city of Revachol, where players assume the role of an amnesic detective investigating a murder. The game emphasizes dialogue and skill-based choices, with character attributes represented by internal voices that influence decisions and interactions. Its narrative explores themes of politics, philosophy, and personal identity, and it is known for its unconventional gameplay and deep storytelling.",
+    "date": "2026-09-18",
+    "cover": "covers/disco-elysium.jpg",
+    "igdbId": 26472,
+    "ttb": {
+      "hastily": 19.0,
+      "normally": 33.1,
+      "completely": 44.6,
+      "samples": 15
+    }
+  },
+  {
+    "id": "castlevania-circle-of-the-moon",
+    "title": "Castlevania: Circle of the Moon",
+    "status": "toplay",
+    "year": 2001,
+    "genres": [
+      "Platform",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "WiiU",
+      "GBA"
+    ],
+    "score": null,
+    "synopsis": "Castlevania: Circle of the Moon is the first of the series to be based on the action/RPG structure of Castlevania:Symphony of the Night rather than the level-based action style of all previous Castlevania games. Dracula's castle is a single continuous building, and as Nathan discovers artifacts within it he gains new abilities that allow him to explore more of it. While Nathan can only use his Killer Whip as a weapon, he can find and equip different kinds of armor and accessories that change his stats. Unique to this entry in the series is the Dual Set-up System, where a combination of two cards will give Nathan unique magical abilities. For example, equipping a fire type card with a whip card will give the Killer Whip a fire attribute, while equipping it with a summon card will let Nathan summon a fire demon to attack onscreen enemies.",
+    "date": "2026-09-18",
+    "cover": "covers/castlevania-circle-of-the-moon.jpg",
+    "igdbId": 1132,
+    "ttb": null
+  },
+  {
+    "id": "trials-evolution",
+    "title": "Trials Evolution",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Platform",
+      "Racing"
+    ],
+    "platforms": [
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Trials Evolution is a downloadable 2.5D platform racing game developed by RedLynx and published by Microsoft Studios. Successor to 2009's critically acclaimed Trials HD.\nThe game uses 3D graphics, but is played on a 2D plane, so the rider can only move forwards and backwards. Players can also control the bike's pitch at slow speeds or while in the air.\nPlayers can also design and share their own maps utilizing the in-game editor. As with its predecessor, Trials HD.",
+    "date": "2026-09-18",
+    "cover": "covers/trials-evolution.jpg",
+    "igdbId": 2149,
+    "ttb": null
+  },
+  {
+    "id": "slay-the-princess",
+    "title": "Slay the Princess",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "Point & Click",
+      "RPG",
+      "Adventure",
+      "Indie",
+      "Visual Novel"
+    ],
+    "platforms": [
+      "Linux",
+      "PC",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "You're here to slay the princess. Don't believe her lies.\n\nSlay the Princess is a choice-driven psychological horror visual novel with dramatic branching, light RPG elements, and hand-penciled art.",
+    "date": "2026-09-18",
+    "cover": "covers/slay-the-princess.jpg",
+    "igdbId": 210395,
+    "ttb": {
+      "hastily": 4.7,
+      "normally": 5.8,
+      "completely": 13.0,
+      "samples": 4
+    }
+  },
+  {
+    "id": "super-mario-3d-land",
+    "title": "Super Mario 3D Land",
+    "status": "toplay",
+    "year": 2011,
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "score": null,
+    "synopsis": "Super Mario 3D Land is the second 3D Super Mario platformer for a handheld device, and the successor to Super Mario Galaxy 2. The game is closely based on side-scrolling Mario games, as it combine elements from both traditional 2D Mario games and modern free-roaming 3D Mario games. It also introduces elements into the series, including power-ups and gameplay mechanics.",
+    "date": "2026-09-18",
+    "cover": "covers/super-mario-3d-land.jpg",
+    "igdbId": 1079,
+    "ttb": {
+      "hastily": null,
+      "normally": 46.0,
+      "completely": 60.0,
+      "samples": 2
+    }
+  },
+  {
+    "id": "the-stanley-parable",
+    "title": "The Stanley Parable",
+    "status": "toplay",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Linux",
+      "PC",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "A first-person exploration game built around branching narrative choices and an omniscient narrator who reacts to the player's decisions. Players navigate an office environment, choosing whether to follow or defy the narrator's directions, with each choice leading to different story paths and endings. Originally released as a Half-Life 2 mod in 2011, it was remade as a standalone title in 2013 and later expanded with The Stanley Parable: Ultra Deluxe in 2022, which added new routes, environments, and endings across additional platforms.",
+    "date": "2026-09-18",
+    "cover": "covers/the-stanley-parable.jpg",
+    "igdbId": 3035,
+    "ttb": {
+      "hastily": 1.2,
+      "normally": 2.7,
+      "completely": 6.1,
+      "samples": 16
+    }
+  },
+  {
+    "id": "timesplitters-2",
+    "title": "TimeSplitters 2",
+    "status": "toplay",
+    "year": 2024,
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "TimeSplitters 2 returns, surpassing its predecessor with a larger-than-life experience. This sequel expands on every front, offering faster-paced action, richer storytelling, and diverse graphical styles across nine thrilling time-traveling adventures. From the lawless Wild West to the neon-lit streets of Neo Tokyo, each era boasts its own atmosphere and challenges.",
+    "date": "2026-09-18",
+    "cover": "covers/timesplitters-2.jpg",
+    "igdbId": 317414,
+    "ttb": null
+  },
+  {
+    "id": "freedom-force",
+    "title": "Freedom Force",
+    "status": "toplay",
+    "year": 2002,
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Tactical"
+    ],
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "score": null,
+    "synopsis": "From a distant corner of the galaxy, an evil alien race sets in motion a sinister plan to conquer the Earth. They unleash a powerful catalyst — Energy X — that imbues the planet's worst miscreants with super-powers to bring the planet to its knees. Now Earth's only hope lies with a new breed of heroes... The Freedom Force!\nCommand a squad of comic book heroes in the defense of Patriot City. Choose from over a dozen heroes or create your own comic champions. Fight for freedom in over 20 action-packed missions. Restore order in a completely interactive 3D world. Take your heroes online and join the fight in multiplayer mode.*\n\n*Multiplayer available in LAN or Direct IP Only.",
+    "date": "2026-09-18",
+    "cover": "covers/freedom-force.jpg",
+    "igdbId": 720,
+    "ttb": null
+  },
+  {
+    "id": "pizza-tower",
+    "title": "Pizza Tower",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Pizza Tower is a 2D platformer mainly inspired by Wario Land and Earthworm Jim. The game has over-the-top hand-drawn animations and music. You play as Peppino Spaghetti, a manic pizza man with many abilities like charging, super jumping and dashing. Peppino has to go up each floor of the tower by finding keys, saving toppins folks and getting as many points as possible!",
+    "date": "2026-09-18",
+    "cover": "covers/pizza-tower.jpg",
+    "igdbId": 135818,
+    "ttb": {
+      "hastily": 4.0,
+      "normally": 11.5,
+      "completely": null,
+      "samples": 2
+    }
+  },
+  {
+    "id": "brothers-a-tale-of-two-sons",
+    "title": "Brothers: A Tale of Two Sons",
+    "status": "toplay",
+    "year": 2013,
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "Win Phone",
+      "Android",
+      "PC",
+      "iOS",
+      "X360",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Brothers is presented from a third-person view overlooking the two brothers. The brothers are moved individually by two thumbsticks on the controller. The controller triggers also cause the respective brother to interact with the game world, such as talking to a non-player character or grabbing onto a ledge or object.\n\nThe older brother is the stronger of the two and can pull levers or boost his younger brother to higher spaces, while the younger one can pass between narrow bars. The player progresses by manipulating the two brothers at the same time to complete various puzzles, often requiring the player to manipulate both brothers to perform differing functions (such as one distracting a hostile non-player character while the other makes their way around).\n\nShould either brother fall from a great height or get injured, the game restarts at a recent checkpoint. All of the in-game dialogue is spoken in a fictional language, thus the story is conveyed through actions, gestures and expressions.",
+    "date": "2026-09-18",
+    "cover": "covers/brothers-a-tale-of-two-sons.jpg",
+    "igdbId": 1334,
+    "ttb": {
+      "hastily": 2.7,
+      "normally": 3.2,
+      "completely": 5.5,
+      "samples": 16
+    }
+  },
+  {
+    "id": "nioh-2",
+    "title": "Nioh 2",
+    "status": "toplay",
+    "year": 2020,
+    "genres": [
+      "RPG",
+      "Hack & Slash",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "score": null,
+    "synopsis": "Master the lethal arts of the samurai as a mysterious half-human, half-supernatural Yokai warrior, in this challenging action RPG sequel. Explore violent Sengoku-era Japan and the deadly Dark Realm, both plagued with grotesque, merciless demons. Unsheathe your deadly weapons and cut down all enemies in your path using a revamped combat system and the ability to transform into a full Yokai to unleash devastating paranormal powers.",
+    "date": "2026-09-18",
+    "cover": "covers/nioh-2.jpg",
+    "igdbId": 103330,
+    "ttb": {
+      "hastily": 40.0,
+      "normally": 47.5,
+      "completely": 80.0,
+      "samples": 3
+    }
+  },
+  {
+    "id": "dragon-ball-sparking-zero",
+    "title": "Dragon Ball: Sparking! Zero",
+    "status": "toplay",
+    "year": 2024,
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Series X|S",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "Dragon Ball: Sparking! Zero takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Make yours the destructive power of the strongest fighters ever to appear in Dragon Ball!",
+    "date": "2026-09-18",
+    "cover": "covers/dragon-ball-sparking-zero.jpg",
+    "igdbId": 279634,
+    "ttb": {
+      "hastily": 7.0,
+      "normally": 21.0,
+      "completely": 28.3,
+      "samples": 4
     }
   }
 ]

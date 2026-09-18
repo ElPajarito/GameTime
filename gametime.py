@@ -18,6 +18,7 @@ Usage:
   ./gametime.py add "Silksong" --status toplay
   ./gametime.py add "Resident Evil 4" --year 2005 --status playing --progress 6.5
   ./gametime.py update chrono-trigger --score 10      # stamps today's date
+  ./gametime.py update "resident evil 4" --year 2023 --score 9   # pick between remakes
   ./gametime.py update silksong --status playing --progress 2
   ./gametime.py remove chrono-trigger
   ./gametime.py list
@@ -84,10 +85,10 @@ def save_library(lib):
     DATA_JS_PATH.write_text(DATA_JS_HEADER + json.dumps(lib, indent=2, ensure_ascii=False) + ";\n",
                             encoding="utf-8")
     print(f"saved {len(lib)} entries -> library.json + data.js")
-    dupes = library_duplicates(lib)
-    if dupes:
-        names = "; ".join(" / ".join(f"[{e['id']}]" for e in g) for g in dupes)
-        print(f"warning: possible duplicates: {names}  (run ./gametime.py check)")
+    hard, _ = library_duplicates(lib)
+    if hard:
+        names = "; ".join(" / ".join(f"[{e['id']}]" for e in g) for g in hard)
+        print(f"warning: same game added twice: {names}  (run ./gametime.py check)")
 
 
 def slugify(title):
@@ -95,27 +96,37 @@ def slugify(title):
     return slug or "untitled"
 
 
-def unique_slug(lib, title):
+def unique_slug(lib, title, year=None):
+    """Slug from the title. On a collision prefer a year suffix over a bare counter,
+    so two games sharing a name stay tellable apart (resident-evil-4-2023, not -2)."""
     base = slugify(title)
-    slug, n = base, 2
     ids = {e["id"] for e in lib}
+    if base not in ids:
+        return base
+    if year and f"{base}-{year}" not in ids:
+        return f"{base}-{year}"
+    slug, n = base, 2
     while slug in ids:
         slug = f"{base}-{n}"
         n += 1
     return slug
 
 
-def find_entry(lib, key):
-    """Find by exact id, then by title substring."""
-    for e in lib:
+def find_entry(lib, key, year=None):
+    """Find by exact id, then by title substring; --year narrows a name collision."""
+    pool = [e for e in lib if year is None or e.get("year") == year]
+    for e in pool:
         if e["id"] == key:
             return e
-    matches = [e for e in lib if key.lower() in e["title"].lower()]
+    matches = [e for e in pool if key.lower() in e["title"].lower()]
     if len(matches) == 1:
         return matches[0]
     if len(matches) > 1:
-        sys.exit("ambiguous match: " + ", ".join(e["id"] for e in matches))
-    sys.exit(f"no entry matching '{key}' (try ./gametime.py list)")
+        rows = "\n".join(f"  {e['id']:<34} {e['title']} ({e.get('year', '?')}) — {e['status']}"
+                         for e in matches)
+        sys.exit(f"'{key}' matches {len(matches)} entries — name an id, or pass --year:\n{rows}")
+    scope = f" from {year}" if year else ""
+    sys.exit(f"no entry matching '{key}'{scope} (try ./gametime.py list)")
 
 
 # ---------- IGDB auth (Twitch client-credentials, token cached on disk) ----------
@@ -293,41 +304,48 @@ def normalize_title(title):
 
 
 def find_duplicates(lib, igdb_id, title):
+    """Split a collision two ways.
+
+    hard = the same IGDB game is already here — a genuine re-add, worth blocking.
+    soft = a DIFFERENT game that merely shares the name (Resident Evil 4 2005 vs
+           the 2023 remake). Perfectly legitimate, so only worth mentioning.
+
+    igdbId is the identity; the title is just a label.
+    """
     norm = normalize_title(title)
-    dupes = []
-    for e in lib:
-        if igdb_id is not None and e.get("igdbId") == igdb_id:
-            dupes.append((e, "same IGDB id"))
-        elif normalize_title(e["title"]) == norm:
-            dupes.append((e, "same title"))
-    return dupes
+    hard = [e for e in lib if igdb_id is not None and e.get("igdbId") == igdb_id]
+    hard_ids = {e["id"] for e in hard}
+    soft = [e for e in lib
+            if e["id"] not in hard_ids and normalize_title(e["title"]) == norm]
+    return hard, soft
 
 
 def confirm_duplicate(dupes, interactive):
-    print("\nalready in the library:")
-    for e, why in dupes:
-        print(f"  [{e['id']}] {e['title']} ({e.get('year', '?')}) — {e['status']}  ({why})")
+    print("\nthis exact game is already in the library:")
+    for e in dupes:
+        print(f"  [{e['id']}] {e['title']} ({e.get('year', '?')}) — {e['status']}"
+              f"  (igdbId {e.get('igdbId')})")
     print("to change an existing entry:  ./gametime.py update <id> ...")
     if not interactive:
-        print("refusing to add a duplicate (pass --again to override).")
+        print("refusing to add the same game twice (pass --again to override).")
         return False
     ans = input("add it anyway? [y/N]: ").strip().lower()
     return ans in ("y", "yes")
 
 
 def library_duplicates(lib):
+    """(hard, soft) groups — hard share an IGDB id (the same game twice, a real
+    problem), soft merely share a name (two different games, nothing to fix)."""
     by_igdb, by_title = {}, {}
     for e in lib:
         if e.get("igdbId") is not None:
             by_igdb.setdefault(e["igdbId"], []).append(e)
         by_title.setdefault(normalize_title(e["title"]), []).append(e)
-    groups, reported = [], set()
-    for g in list(by_igdb.values()) + list(by_title.values()):
-        ids = frozenset(e["id"] for e in g)
-        if len(g) > 1 and ids not in reported:
-            reported.add(ids)
-            groups.append(g)
-    return groups
+    hard = [g for g in by_igdb.values() if len(g) > 1]
+    hard_ids = {e["id"] for g in hard for e in g}
+    soft = [g for g in by_title.values()
+            if len(g) > 1 and not {e["id"] for e in g} <= hard_ids]
+    return hard, soft
 
 
 # ---------- commands ----------
@@ -339,11 +357,16 @@ def cmd_add(args):
         args.status = "played" if args.score is not None else "toplay"
     results = search_igdb(args.title, year=args.year)
     chosen = pick_result(results, first=args.first)
-    dupes = find_duplicates(lib, chosen["igdb_id"], chosen["title"])
-    if dupes and not args.again:
-        if not confirm_duplicate(dupes, interactive=not args.first):
+    hard, soft = find_duplicates(lib, chosen["igdb_id"], chosen["title"])
+    if hard and not args.again:
+        if not confirm_duplicate(hard, interactive=not args.first):
             sys.exit(1)
-    slug = unique_slug(lib, chosen["title"])
+    slug = unique_slug(lib, chosen["title"], chosen["year"])
+    if soft:
+        print("\nnote: library already has a different game by this name:")
+        for e in soft:
+            print(f"  [{e['id']}] {e['title']} ({e.get('year', '?')}) — {e['status']}")
+        print(f"adding as [{slug}]")
     cover = download_cover(chosen["cover_image_id"], slug)
     ttb = fetch_ttb(chosen["igdb_id"])
     if ttb:
@@ -379,7 +402,7 @@ def cmd_add(args):
 
 def cmd_update(args):
     lib = load_library()
-    e = find_entry(lib, args.id)
+    e = find_entry(lib, args.id, args.year)
     if args.score is not None:
         e["score"] = args.score
         # scoring something means you've played it through (unless told otherwise)
@@ -406,7 +429,7 @@ def cmd_update(args):
 
 def cmd_remove(args):
     lib = load_library()
-    e = find_entry(lib, args.id)
+    e = find_entry(lib, args.id, args.year)
     lib.remove(e)
     cover = e.get("cover")
     if cover and (ROOT / cover).exists() and not args.keep_cover:
@@ -453,16 +476,25 @@ def cmd_covers(args):
 
 def cmd_check(args):
     lib = load_library()
-    groups = library_duplicates(lib)
-    if not groups:
-        print(f"no duplicates found in {len(lib)} entries.")
-        return
-    print(f"{len(groups)} possible duplicate group(s):\n")
-    for g in groups:
-        for e in g:
+    hard, soft = library_duplicates(lib)
+
+    def show(group):
+        for e in group:
             print(f"  [{e['id']}] {e['title']} ({e.get('year', '?')}) "
                   f"— {e['status']}, igdbId={e.get('igdbId')}")
-        print(f"  keep one, remove the rest:  ./gametime.py remove <id>\n")
+
+    if soft:
+        print(f"{len(soft)} shared name(s) — different games, nothing to fix:\n")
+        for g in soft:
+            show(g)
+            print()
+    if not hard:
+        print(f"no duplicates found in {len(lib)} entries.")
+        return
+    print(f"{len(hard)} duplicate group(s) — the same game added twice:\n")
+    for g in hard:
+        show(g)
+        print("  keep one, remove the rest:  ./gametime.py remove <id>\n")
     sys.exit(1)
 
 
@@ -488,6 +520,8 @@ def main():
 
     u = sub.add_parser("update", help="change score/status/progress/notes of an entry")
     u.add_argument("id", help="entry id or title fragment")
+    u.add_argument("--year", type=int, help="only match an entry from this year "
+                                            "(picks between same-named games)")
     u.add_argument("--score", type=float)
     u.add_argument("--status", choices=["playing", "toplay", "played"])
     u.add_argument("--notes", help="new notes ('' to clear)")
@@ -497,6 +531,8 @@ def main():
 
     r = sub.add_parser("remove", help="delete an entry (and its cover)")
     r.add_argument("id", help="entry id or title fragment")
+    r.add_argument("--year", type=int, help="only match an entry from this year "
+                                            "(picks between same-named games)")
     r.add_argument("--keep-cover", action="store_true")
     r.set_defaults(fn=cmd_remove)
 

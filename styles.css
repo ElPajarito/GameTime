@@ -6,7 +6,7 @@
 :root {
   --px: "Pixelify Sans", sans-serif;
   --vt: "VT323", monospace;
-  --num: "Russo One", "Segoe UI", sans-serif;  /* numbers only — max legibility */
+  --num: "Silkscreen", monospace;  /* numbers only — max legibility */
 
   /* SNES-flavored palette */
   --paper: #f4efe0;
@@ -191,7 +191,7 @@ button { font-family: inherit; }
 .search-row:hover, .search-row:focus-visible { background: var(--purple-deep); }
 .search-row img, .search-row .ph-mini { width: 34px; height: 48px; object-fit: cover; border: 2px solid var(--paper); flex: none; }
 .search-row .sr-name { font-family: var(--vt); font-size: 21px; line-height: 1; }
-.search-row .sr-sub { font-family: var(--px); font-size: 12px; color: var(--cyan); }
+.search-row .sr-sub { font-family: var(--num); font-size: 12px; color: var(--cyan); }
 .search-row .sr-tag {
   margin-left: auto;
   font-family: var(--px);
@@ -1022,9 +1022,7 @@ body.tvfx-off .screen-fx { display: none; }
 .modal-hearts svg { width: 26px; height: 24px; }
 .modal-hearts .hearts-num {
   margin-left: 10px;
-  font-family: var(--px);
-  font-weight: 700;
-  font-size: 17px;
+  font-size: 20px;
   color: var(--red);
 }
 .modal-unrated { font-family: var(--px); font-size: 15px; color: #8a7fb0; }
@@ -1042,7 +1040,7 @@ body.tvfx-off .screen-fx { display: none; }
   display: block;
   font-family: var(--px);
   font-weight: 700;
-  font-size: 20px;
+  font-size: 22px;
   color: var(--cyan);
   margin-bottom: 4px;
 }
@@ -1083,7 +1081,7 @@ body.tvfx-off .screen-fx { display: none; }
 .tv-progress, .modal-progress, .sr-sub {
   font-family: var(--num);
   font-weight: 400;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 .mid-count { font-size: 23px; }
 .m7-len { font-size: 12px; }
