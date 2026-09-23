@@ -3700,5 +3700,32 @@
       "completely": 28.3,
       "samples": 4
     }
+  },
+  {
+    "id": "007-first-light",
+    "title": "007 First Light",
+    "status": "toplay",
+    "year": 2026,
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "Switch 2",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "007 First Light is a thrilling espionage action-adventure game from IO Interactive. Players follow James Bond as a young, resourceful, and sometimes reckless recruit in MI6's training program and discover an origin story of the world's most famous spy.",
+    "date": "2026-09-23",
+    "cover": "covers/007-first-light.jpg",
+    "igdbId": 141114,
+    "ttb": {
+      "hastily": 14.0,
+      "normally": 17.2,
+      "completely": 25.0,
+      "samples": 12
+    }
   }
 ]
