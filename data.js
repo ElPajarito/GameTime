@@ -3730,5 +3730,57 @@ const LIBRARY = [
       "completely": 25.0,
       "samples": 12
     }
+  },
+  {
+    "id": "the-talos-principle-ii",
+    "title": "The Talos Principle II",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "The Talos Principle II is a thought-provoking first-person puzzle experience that greatly expands on the first game's philosophical themes and stunning environments with increasingly mind-bending challenges.",
+    "date": "2026-09-26",
+    "cover": "covers/the-talos-principle-ii.jpg",
+    "igdbId": 79864,
+    "ttb": {
+      "hastily": 23.3,
+      "normally": 34.0,
+      "completely": 38.5,
+      "samples": 5
+    }
+  },
+  {
+    "id": "sons-of-the-forest",
+    "title": "Sons of the Forest",
+    "status": "toplay",
+    "year": 2024,
+    "genres": [
+      "Simulator",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "score": null,
+    "synopsis": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+    "date": "2026-09-26",
+    "cover": "covers/sons-of-the-forest.jpg",
+    "igdbId": 127346,
+    "ttb": {
+      "hastily": 20.0,
+      "normally": 34.5,
+      "completely": 100.0,
+      "samples": 5
+    }
   }
 ];
