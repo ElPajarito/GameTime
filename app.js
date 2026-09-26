@@ -232,8 +232,8 @@ const state = {
   genres: new Set(),
   platforms: new Set(),
   length: "any",                     // any | short | mid | long
-  sortLib: "new",                    // new | len | az
-  sortDex: "top",                    // top | len | az
+  sortLib: "new",                    // new | len | year | az
+  sortDex: "top",                    // top | len | year | az
   view: "landing",
 };
 
@@ -268,6 +268,10 @@ function sorted(items, mode) {
   if (mode === "az") arr.sort((a, b) => a.title.localeCompare(b.title));
   else if (mode === "len") arr.sort((a, b) => (mainHours(a) ?? 1e9) - (mainHours(b) ?? 1e9));
   else if (mode === "top") arr.sort((a, b) => (b.score ?? -1) - (a.score ?? -1));
+  // release year, oldest first; ties fall back to title so a year's worth of
+  // games always lands in the same readable order
+  else if (mode === "year") arr.sort((a, b) => (a.year ?? 9999) - (b.year ?? 9999)
+                                               || a.title.localeCompare(b.title));
   else arr.sort((a, b) => b.date.localeCompare(a.date));   // "new"
   return arr;
 }
@@ -292,9 +296,9 @@ function allOf(key, pool) {
 function renderFilters() {
   const defs = [
     { host: "filtersLib", pool: byStatus("toplay"), sortKey: "sortLib",
-      sorts: [["new", "NEW"], ["len", "SHORT→LONG"], ["az", "A-Z"]] },
+      sorts: [["new", "NEW"], ["len", "SHORT→LONG"], ["year", "OLD→NEW"], ["az", "A-Z"]] },
     { host: "filtersDex", pool: byStatus("played"), sortKey: "sortDex",
-      sorts: [["top", "TOP RATED"], ["len", "SHORT→LONG"], ["az", "A-Z"]] },
+      sorts: [["top", "TOP RATED"], ["len", "SHORT→LONG"], ["year", "OLD→NEW"], ["az", "A-Z"]] },
   ];
   const sec = (title, chips) =>
     `<div class="fd-sec"><div class="fd-title">${title}</div><div class="fd-chips">${chips}</div></div>`;
