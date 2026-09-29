@@ -3779,5 +3779,109 @@
       "completely": 100.0,
       "samples": 5
     }
+  },
+  {
+    "id": "fallout-new-vegas-ultimate-edition",
+    "title": "Fallout: New Vegas - Ultimate Edition",
+    "status": "toplay",
+    "year": 2012,
+    "genres": [
+      "Shooter",
+      "RPG"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "Welcome back to New Vegas!\n\nWith the introduction of the Ultimate Edition Bethesda Softworks presents the definitive edition of Fallout: New Vegas. This complete package, which includes the Dead Money, Honest Hearts, Old World Blues and Lonesome Road add-on packs, allows you to experience everything that New Vegas has to offer. To sweeten the pot, you'll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs Courier's Stash and Gun Runners Arsenal.\n\nWhether you're a seasoned explorer of the Mojave or playing the game for the first time you will find there are more friends, and enemies, to make, more consequences to be responsible for and more opportunities to live in glory, or infamy, throughout the Wasteland. The choices you make will be as influential as ever.\n\nEnjoy your stay.",
+    "date": "2026-09-30",
+    "cover": "covers/fallout-new-vegas-ultimate-edition.jpg",
+    "igdbId": 25532,
+    "ttb": {
+      "hastily": null,
+      "normally": null,
+      "completely": 234.5,
+      "samples": 2
+    }
+  },
+  {
+    "id": "bioshock",
+    "title": "BioShock",
+    "status": "toplay",
+    "year": 2007,
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "RPG",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Mac",
+      "X360"
+    ],
+    "score": null,
+    "synopsis": "BioShock is a horror-themed first-person shooter set in a steampunk underwater dystopia. The player is urged to turn everything into a weapon: biologically modifying their own body with Plasmids, hacking devices and systems, upgrading their weapons, crafting new ammo variants, and experimenting with different battle techniques are all possible. The game is described by the developers as a spiritual successor to their previous PC title System Shock 2. BioShock received high praise in critical reviews for its atmospheric audio and visual quality, absorbing and original plot and its unique gaming experience.",
+    "date": "2026-09-30",
+    "cover": "covers/bioshock.jpg",
+    "igdbId": 20,
+    "ttb": {
+      "hastily": 7.9,
+      "normally": 15.8,
+      "completely": 25.8,
+      "samples": 18
+    }
+  },
+  {
+    "id": "pathologic-2",
+    "title": "Pathologic 2",
+    "status": "toplay",
+    "year": 2019,
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "XONE"
+    ],
+    "score": null,
+    "synopsis": "Pathologic 2 is a reimagining of the original, focused on the Haruspex, Artemy Burakh. You return to your plague-stricken hometown as a surgeon-healer caught between local kinship traditions, colonial urban power, impossible medicine, hunger, exhaustion, and a clock that never stops. Compared with the 2005 game, it is more mechanically coherent and cinematic, but still intentionally punishing: you are meant to triage, fail, compromise, and live with irreversible consequences.",
+    "date": "2026-09-30",
+    "cover": "covers/pathologic-2.jpg",
+    "igdbId": 55322,
+    "ttb": null
+  },
+  {
+    "id": "planescape-torment-enhanced-edition",
+    "title": "Planescape: Torment - Enhanced Edition",
+    "status": "toplay",
+    "year": 2017,
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "Linux",
+      "Android",
+      "PC",
+      "iOS",
+      "Mac",
+      "XONE",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "\"Discover an incredibly rich story and a unique setting unlike anything else in fantasy. Defeat strange and alien creatures, engage in rich dialogue, and explore the dark and dangerous Planescape setting in this 50+ hour RPG classic.\n\nMillions of Planescape: Torment fans have enjoyed the strange and dangerous city of Sigil and surrounding planes through the Nameless One's eyes. Now it’s your turn. This is Planescape: Torment like you’ve never seen before.\n\nEnhanced Edition - Key Features:\n- Enhanced Planescape: Chris Avellone, Lead Designer on Planescape Torment, has partnered with Beamdog to curate gameplay updates, bug fixes, and enhancements to best capture his original vision for the game.\n\n- Remastered Music: The full Planescape: Torment soundtrack has been remastered in-game to add more depth to Sigil and the multiverse.\n\n- 4K Interface: Sigil has never looked this good! The interface of Planescape: Torment has been rebuilt in high definition with tons of new convenience features.\n\n- A Planescape For Today: The Enhanced Edition includes modern features such as tab highlighting, area zooming, combat log, quickloot, and more!\"",
+    "date": "2026-09-30",
+    "cover": "covers/planescape-torment-enhanced-edition.jpg",
+    "igdbId": 27988,
+    "ttb": null
   }
 ]
