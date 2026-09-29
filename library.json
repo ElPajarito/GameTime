@@ -3883,5 +3883,30 @@
     "cover": "covers/planescape-torment-enhanced-edition.jpg",
     "igdbId": 27988,
     "ttb": null
+  },
+  {
+    "id": "metal-gear-solid-2-sons-of-liberty-master-collection-version",
+    "title": "Metal Gear Solid 2: Sons of Liberty - Master Collection Version",
+    "status": "toplay",
+    "year": 2023,
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PS4",
+      "Switch 2",
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "score": null,
+    "synopsis": "This is the fourth release in the Metal Gear series. Metal Gear Solid 2 is a story a told in two parts:\nIn the Tanker chapters, Solid Snake sneaks into a secret tanker in pursuit of a new top-secret nuclear weapon, called Metal Gear.\nIn the Plant chapters, Raiden of the new Foxhound unit infiltrates an offshore plant occupied by terrorists.\n\nNew gameplay actions such as handling weapons from a first person viewpoint, holding up enemies at gunpoint, and grabbing and dragging fallen opponents were also incorporated into this title.",
+    "date": "2026-09-30",
+    "cover": "covers/metal-gear-solid-2-sons-of-liberty-master-collection-version.jpg",
+    "igdbId": 383389,
+    "ttb": null
   }
 ]
