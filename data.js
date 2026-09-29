@@ -3257,31 +3257,6 @@ const LIBRARY = [
     }
   },
   {
-    "id": "metal-gear-solid-3-snake-eater-master-collection-version",
-    "title": "Metal Gear Solid 3: Snake Eater - Master Collection Version",
-    "status": "toplay",
-    "year": 2023,
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure"
-    ],
-    "platforms": [
-      "Series X|S",
-      "PS4",
-      "Switch 2",
-      "PC",
-      "PS5",
-      "Switch"
-    ],
-    "score": null,
-    "synopsis": "Metal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series.\n\nThe game is set in a deep jungle environment.\nSnake must find his equipment and use various camouflage which allows the player to deceive the enemy's eyes and face paint that matches the surrounding environment, providing a unique stealth gameplay experience.\n\nThe game is also packed with new action elements which allow players to capture jungle animals for food and to regain stamina, and Close Quarters Combat (CQC), a combat system based on martial arts for fighting enemies at close range.",
-    "date": "2026-09-18",
-    "cover": "covers/metal-gear-solid-3-snake-eater-master-collection-version.jpg",
-    "igdbId": 383391,
-    "ttb": null
-  },
-  {
     "id": "okami-hd-limited-edition",
     "title": "Okami HD: Limited Edition",
     "status": "toplay",
@@ -3911,5 +3886,32 @@ const LIBRARY = [
     "cover": "covers/metal-gear-solid-2-sons-of-liberty-master-collection-version.jpg",
     "igdbId": 383389,
     "ttb": null
+  },
+  {
+    "id": "metal-gear-solid-delta-snake-eater",
+    "title": "Metal Gear Solid Delta: Snake Eater",
+    "status": "toplay",
+    "year": 2025,
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "platforms": [
+      "Series X|S",
+      "PC",
+      "PS5"
+    ],
+    "score": null,
+    "synopsis": "The same gripping story and engrossing world, but now with cutting-edge graphics and 3D audio, which bring the jungle to life. Get ready for the ultimate survival, stealth and action experience.",
+    "date": "2026-09-30",
+    "cover": "covers/metal-gear-solid-delta-snake-eater.jpg",
+    "igdbId": 250634,
+    "ttb": {
+      "hastily": 9.3,
+      "normally": 14.5,
+      "completely": 19.0,
+      "samples": 5
+    }
   }
 ];
